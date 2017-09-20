@@ -50,7 +50,7 @@ class UnivItem extends React.Component{
                 marginTop : "10px"
               }}
             >
-              <div className="ui basic yellow button">SVG</div>
+              <a href="./img/png/PNG_1.png" download className="ui basic yellow button">SVG</a>
               <div className="ui basic olive button">PNG</div>
             </div>
           </div>
@@ -62,7 +62,7 @@ class UnivItem extends React.Component{
 class UnivList extends React.Component{
   render = () =>{
     return (
-      <div className="ui four stackable cards">
+      <div className="ui four link stackable cards">
       {univs.map((univ)=>{
         return (
           <UnivItem 
