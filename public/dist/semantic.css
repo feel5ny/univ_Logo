@@ -2356,8 +2356,8 @@ body .ui.inverted::-webkit-scrollbar-thumb:hover {
 
 .ui.basic.grey.buttons .button,
 .ui.basic.grey.button {
-  box-shadow: 0px 0px 0px 1px #767676 inset !important;
-  color: #767676 !important;
+  box-shadow: 0px 0px 0px 1px #B6C1C6 inset !important;
+  color: #B6C1C6 !important;
 }
 
 .ui.basic.grey.buttons .button:hover,
@@ -7250,7 +7250,7 @@ a.ui.inverted.grey.header:hover {
 i.icon {
   display: inline-block;
   opacity: 1;
-  margin: 0em 0.25rem 0em 0em;
+  /* margin: 0em 0.25rem 0em 0em; */
   width: 1.18em;
   height: 1em;
   font-family: 'Icons';
@@ -7626,7 +7626,11 @@ i.inverted.circular.brown.icon {
 /* Grey */
 
 i.grey.icon {
-  color: #767676 !important;
+  color: #B6C1C6 !important;
+  margin-left: 10px;
+}
+i.grey.icon:hover {
+  color: #191919 !important;
 }
 
 i.inverted.grey.icon {
@@ -7680,6 +7684,7 @@ i.small.icons {
 i.icon,
 i.icons {
   font-size: 1em;
+  margin-left: 10px;
 }
 
 i.large.icon,
@@ -11696,14 +11701,14 @@ img.ui.bordered.image {
 .ui.floated.images {
   float: left;
   margin-right: 1em;
-  margin-bottom: 1em;
+  /* margin-bottom: 1em; */
 }
 
 .ui.right.floated.images,
 .ui.right.floated.image {
   float: right;
   margin-right: 0em;
-  margin-bottom: 1em;
+  /* margin-bottom: 1em; */
   margin-left: 1em;
 }
 
@@ -11726,7 +11731,7 @@ img.ui.bordered.image {
 .ui.mini.images img,
 .ui.mini.images svg,
 .ui.mini.image {
-  width: 35px;
+  width: 38px;
   height: auto;
   font-size: 0.78571429rem;
 }

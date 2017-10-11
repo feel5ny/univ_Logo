@@ -1,0 +1,3289 @@
+{
+  "logoLists": [
+    {
+      "id": 1,
+      "university": "가야대",
+      "location": "서울",
+      "imgUrl": "PNG_1.png",
+      "downloadUrlPng": "./img/png/PNG_1.png",
+      "downloadUrlSvg": "./img/svg/SVG_1.svg",
+      "brandColor": "#133984"
+    },
+    {
+      "id": 2,
+      "university": "가천대",
+      "location": "서울",
+      "imgUrl": "PNG_2.png",
+      "downloadUrlPng": "./img/png/PNG_2.png",
+      "downloadUrlSvg": "./img/svg/SVG_2.svg",
+      "brandColor": "#004E96"
+    },
+    {
+      "id": 3,
+      "university": "가톨릭관동대",
+      "location": "서울",
+      "imgUrl": "PNG_3.png",
+      "downloadUrlPng": "./img/png/PNG_3.png",
+      "downloadUrlSvg": "./img/svg/SVG_3.svg",
+      "brandColor": "#005E75"
+    },
+    {
+      "id": 4,
+      "university": "가톨릭대",
+      "location": "서울",
+      "imgUrl": "PNG_4.png",
+      "downloadUrlPng": "./img/png/PNG_4.png",
+      "downloadUrlSvg": "./img/svg/SVG_4.svg",
+      "brandColor": "#004a9a"
+    },
+    {
+      "id": 5,
+      "university": "가톨릭상지대학",
+      "location": "서울",
+      "imgUrl": "PNG_5.png",
+      "downloadUrlPng": "./img/png/PNG_5.png",
+      "downloadUrlSvg": "./img/svg/SVG_5.svg",
+      "brandColor": "#006CB5"
+    },
+    {
+      "id": 6,
+      "university": "감리교신학대",
+      "location": "서울",
+      "imgUrl": "PNG_6.png",
+      "downloadUrlPng": "./img/png/PNG_6.png",
+      "downloadUrlSvg": "./img/svg/SVG_6.svg",
+      "brandColor": "#742985"
+    },
+    {
+      "id": 7,
+      "university": "강남대",
+      "location": "서울",
+      "imgUrl": "PNG_7.png",
+      "downloadUrlPng": "./img/png/PNG_7.png",
+      "downloadUrlSvg": "./img/svg/SVG_7.svg",
+      "brandColor": "#0072BB"
+    },
+    {
+      "id": 8,
+      "university": "강동대학",
+      "location": "서울",
+      "imgUrl": "PNG_8.png",
+      "downloadUrlPng": "./img/png/PNG_8.png",
+      "downloadUrlSvg": "./img/svg/SVG_8.svg",
+      "brandColor": "#85BC22"
+    },
+    {
+      "id": 9,
+      "university": "강릉영동대학",
+      "location": "서울",
+      "imgUrl": "PNG_9.png",
+      "downloadUrlPng": "./img/png/PNG_9.png",
+      "downloadUrlSvg": "./img/svg/SVG_9.svg",
+      "brandColor": "#169f58"
+    },
+    {
+      "id": 10,
+      "university": "강릉원주대",
+      "location": "서울",
+      "imgUrl": "PNG_10.png",
+      "downloadUrlPng": "./img/png/PNG_10.png",
+      "downloadUrlSvg": "./img/svg/SVG_10.svg",
+      "brandColor": "#AA0052"
+    },
+    {
+      "id": 11,
+      "university": "강원관광대학",
+      "location": "서울",
+      "imgUrl": "PNG_11.png",
+      "downloadUrlPng": "./img/png/PNG_11.png",
+      "downloadUrlSvg": "./img/svg/SVG_11.svg",
+      "brandColor": "#181D61"
+    },
+    {
+      "id": 12,
+      "university": "강원대",
+      "location": "서울",
+      "imgUrl": "PNG_12.png",
+      "downloadUrlPng": "./img/png/PNG_12.png",
+      "downloadUrlSvg": "./img/svg/SVG_12.svg",
+      "brandColor": "#2F52A0"
+    },
+    {
+      "id": 13,
+      "university": "강원도립대학",
+      "location": "서울",
+      "imgUrl": "PNG_13.png",
+      "downloadUrlPng": "./img/png/PNG_13.png",
+      "downloadUrlSvg": "./img/svg/SVG_13.svg",
+      "brandColor": "#20907d"
+    },
+    {
+      "id": 14,
+      "university": "거제대학",
+      "location": "서울",
+      "imgUrl": "PNG_14.png",
+      "downloadUrlPng": "./img/png/PNG_14.png",
+      "downloadUrlSvg": "./img/svg/SVG_14.svg",
+      "brandColor": "#006BAC"
+    },
+    {
+      "id": 15,
+      "university": "건국대",
+      "location": "서울",
+      "imgUrl": "PNG_15.png",
+      "downloadUrlPng": "./img/png/PNG_15.png",
+      "downloadUrlSvg": "./img/svg/SVG_15.svg",
+      "brandColor": "#039f3a"
+    },
+    {
+      "id": 16,
+      "university": "건양대",
+      "location": "서울",
+      "imgUrl": "PNG_16.png",
+      "downloadUrlPng": "./img/png/PNG_16.png",
+      "downloadUrlSvg": "./img/svg/SVG_16.svg",
+      "brandColor": "#00633A"
+    },
+    {
+      "id": 17,
+      "university": "경기과학기술대학",
+      "location": "서울",
+      "imgUrl": "PNG_17.png",
+      "downloadUrlPng": "./img/png/PNG_17.png",
+      "downloadUrlSvg": "./img/svg/SVG_17.svg",
+      "brandColor": "#C9D300"
+    },
+    {
+      "id": 18,
+      "university": "경기대",
+      "location": "서울",
+      "imgUrl": "PNG_18.png",
+      "downloadUrlPng": "./img/png/PNG_18.png",
+      "downloadUrlSvg": "./img/svg/SVG_18.svg",
+      "brandColor": "#004F9E"
+    },
+    {
+      "id": 19,
+      "university": "경남과학기술대",
+      "location": "서울",
+      "imgUrl": "PNG_19.png",
+      "downloadUrlPng": "./img/png/PNG_19.png",
+      "downloadUrlSvg": "./img/svg/SVG_19.svg",
+      "brandColor": "#00B3E3"
+    },
+    {
+      "id": 20,
+      "university": "경남대",
+      "location": "서울",
+      "imgUrl": "PNG_20.png",
+      "downloadUrlPng": "./img/png/PNG_20.png",
+      "downloadUrlSvg": "./img/svg/SVG_20.svg",
+      "brandColor": "00384F"
+    },
+    {
+      "id": 21,
+      "university": "경남도립거창대학",
+      "location": "서울",
+      "imgUrl": "PNG_21.png",
+      "downloadUrlPng": "./img/png/PNG_21.png",
+      "downloadUrlSvg": "./img/svg/SVG_21.svg",
+      "brandColor": "#005D9E"
+    },
+    {
+      "id": 22,
+      "university": "경남도립남해대학",
+      "location": "서울",
+      "imgUrl": "PNG_22.png",
+      "downloadUrlPng": "./img/png/PNG_22.png",
+      "downloadUrlSvg": "./img/svg/SVG_22.svg",
+      "brandColor": "#17428B"
+    },
+    {
+      "id": 23,
+      "university": "경남정보대학",
+      "location": "서울",
+      "imgUrl": "PNG_23.png",
+      "downloadUrlPng": "./img/png/PNG_23.png",
+      "downloadUrlSvg": "./img/svg/SVG_23.svg",
+      "brandColor": "#E01837"
+    },
+    {
+      "id": 24,
+      "university": "경동대",
+      "location": "서울",
+      "imgUrl": "PNG_24.png",
+      "downloadUrlPng": "./img/png/PNG_24.png",
+      "downloadUrlSvg": "./img/svg/SVG_24.svg",
+      "brandColor": "#004098"
+    },
+    {
+      "id": 25,
+      "university": "경동대",
+      "location": "서울",
+      "imgUrl": "PNG_25.png",
+      "downloadUrlPng": "./img/png/PNG_25.png",
+      "downloadUrlSvg": "./img/svg/SVG_25.svg",
+      "brandColor": "#006EB8"
+    },
+    {
+      "id": 26,
+      "university": "경민대학",
+      "location": "서울",
+      "imgUrl": "PNG_26.png",
+      "downloadUrlPng": "./img/png/PNG_26.png",
+      "downloadUrlSvg": "./img/svg/SVG_26.svg",
+      "brandColor": "#004185"
+    },
+    {
+      "id": 27,
+      "university": "경복대학",
+      "location": "서울",
+      "imgUrl": "PNG_27.png",
+      "downloadUrlPng": "./img/png/PNG_27.png",
+      "downloadUrlSvg": "./img/svg/SVG_27.svg",
+      "brandColor": "#0069B4"
+    },
+    {
+      "id": 28,
+      "university": "경북과학대학",
+      "location": "서울",
+      "imgUrl": "PNG_28.png",
+      "downloadUrlPng": "./img/png/PNG_28.png",
+      "downloadUrlSvg": "./img/svg/SVG_28.svg",
+      "brandColor": "#D51317"
+    },
+    {
+      "id": 29,
+      "university": "경북대",
+      "location": "서울",
+      "imgUrl": "PNG_29.png",
+      "downloadUrlPng": "./img/png/PNG_29.png",
+      "downloadUrlSvg": "./img/svg/SVG_29.svg",
+      "brandColor": "#2C4283"
+    },
+    {
+      "id": 30,
+      "university": "경북도립대학",
+      "location": "서울",
+      "imgUrl": "PNG_30.png",
+      "downloadUrlPng": "./img/png/PNG_30.png",
+      "downloadUrlSvg": "./img/svg/SVG_30.svg",
+      "brandColor": "#0A1C34"
+    },
+    {
+      "id": 31,
+      "university": "경북전문대학",
+      "location": "서울",
+      "imgUrl": "PNG_31.png",
+      "downloadUrlPng": "./img/png/PNG_31.png",
+      "downloadUrlSvg": "./img/svg/SVG_31.svg",
+      "brandColor": "#334B9B"
+    },
+    {
+      "id": 32,
+      "university": "경상대",
+      "location": "서울",
+      "imgUrl": "PNG_32.png",
+      "downloadUrlPng": "./img/png/PNG_32.png",
+      "downloadUrlSvg": "./img/svg/SVG_32.svg",
+      "brandColor": "#F8AF00"
+    },
+    {
+      "id": 33,
+      "university": "경성대",
+      "location": "서울",
+      "imgUrl": "PNG_33.png",
+      "downloadUrlPng": "./img/png/PNG_33.png",
+      "downloadUrlSvg": "./img/svg/SVG_33.svg",
+      "brandColor": "#093687"
+    },
+    {
+      "id": 34,
+      "university": "경운대",
+      "location": "서울",
+      "imgUrl": "PNG_34.png",
+      "downloadUrlPng": "./img/png/PNG_34.png",
+      "downloadUrlSvg": "./img/svg/SVG_34.svg",
+      "brandColor": "#82294E"
+    },
+    {
+      "id": 35,
+      "university": "경인교대",
+      "location": "서울",
+      "imgUrl": "PNG_35.png",
+      "downloadUrlPng": "./img/png/PNG_35.png",
+      "downloadUrlSvg": "./img/svg/SVG_35.svg",
+      "brandColor": "#ED2124"
+    },
+    {
+      "id": 36,
+      "university": "경인여자대학",
+      "location": "서울",
+      "imgUrl": "PNG_36.png",
+      "downloadUrlPng": "./img/png/PNG_36.png",
+      "downloadUrlSvg": "./img/svg/SVG_36.svg",
+      "brandColor": "#8B1F31"
+    },
+    {
+      "id": 37,
+      "university": "경일대",
+      "location": "서울",
+      "imgUrl": "PNG_37.png",
+      "downloadUrlPng": "./img/png/PNG_37.png",
+      "downloadUrlSvg": "./img/svg/SVG_37.svg",
+      "brandColor": "#E00817"
+    },
+    {
+      "id": 38,
+      "university": "경주대",
+      "location": "서울",
+      "imgUrl": "PNG_38.png",
+      "downloadUrlPng": "./img/png/PNG_38.png",
+      "downloadUrlSvg": "./img/svg/SVG_38.svg",
+      "brandColor": "#FFCC00"
+    },
+    {
+      "id": 39,
+      "university": "경찰대학",
+      "location": "서울",
+      "imgUrl": "PNG_39.png",
+      "downloadUrlPng": "./img/png/PNG_39.png",
+      "downloadUrlSvg": "./img/svg/SVG_39.svg",
+      "brandColor": "#982228"
+    },
+    {
+      "id": 40,
+      "university": "경희대",
+      "location": "서울",
+      "imgUrl": "PNG_40.png",
+      "downloadUrlPng": "./img/png/PNG_40.png",
+      "downloadUrlSvg": "./img/svg/SVG_40.svg",
+      "brandColor": "#E32321"
+    },
+    {
+      "id": 41,
+      "university": "계명대",
+      "location": "서울",
+      "imgUrl": "PNG_41.png",
+      "downloadUrlPng": "./img/png/PNG_41.png",
+      "downloadUrlSvg": "./img/svg/SVG_41.svg",
+      "brandColor": "#E32321"
+    },
+    {
+      "id": 42,
+      "university": "계명문화대학",
+      "location": "서울",
+      "imgUrl": "PNG_42.png",
+      "downloadUrlPng": "./img/png/PNG_42.png",
+      "downloadUrlSvg": "./img/svg/SVG_42.svg",
+      "brandColor": "#9c9c9c"
+    },
+    {
+      "id": 43,
+      "university": "고구려대학",
+      "location": "서울",
+      "imgUrl": "PNG_43.png",
+      "downloadUrlPng": "./img/png/PNG_43.png",
+      "downloadUrlSvg": "./img/svg/SVG_43.svg",
+      "brandColor": "#81492B"
+    },
+    {
+      "id": 44,
+      "university": "고려대",
+      "location": "서울",
+      "imgUrl": "PNG_44.png",
+      "downloadUrlPng": "./img/png/PNG_44.png",
+      "downloadUrlSvg": "./img/svg/SVG_44.svg",
+      "brandColor": "#8C0A28"
+    },
+    {
+      "id": 45,
+      "university": "고신대",
+      "location": "서울",
+      "imgUrl": "PNG_45.png",
+      "downloadUrlPng": "./img/png/PNG_45.png",
+      "downloadUrlSvg": "./img/svg/SVG_45.svg",
+      "brandColor": "#003F91"
+    },
+    {
+      "id": 46,
+      "university": "공군사관학교",
+      "location": "서울",
+      "imgUrl": "PNG_46.png",
+      "downloadUrlPng": "./img/png/PNG_46.png",
+      "downloadUrlSvg": "./img/svg/SVG_46.svg",
+      "brandColor": "#1D3765"
+    },
+    {
+      "id": 47,
+      "university": "공주교대",
+      "location": "서울",
+      "imgUrl": "PNG_47.png",
+      "downloadUrlPng": "./img/png/PNG_47.png",
+      "downloadUrlSvg": "./img/svg/SVG_47.svg",
+      "brandColor": "#209709"
+    },
+    {
+      "id": 48,
+      "university": "공주대",
+      "location": "서울",
+      "imgUrl": "PNG_48.png",
+      "downloadUrlPng": "./img/png/PNG_48.png",
+      "downloadUrlSvg": "./img/svg/SVG_48.svg",
+      "brandColor": "#194898"
+    },
+    {
+      "id": 49,
+      "university": "광신대",
+      "location": "서울",
+      "imgUrl": "PNG_49.png",
+      "downloadUrlPng": "./img/png/PNG_49.png",
+      "downloadUrlSvg": "./img/svg/SVG_49.svg",
+      "brandColor": "#3e0c7f"
+    },
+    {
+      "id": 50,
+      "university": "광양보건대학",
+      "location": "서울",
+      "imgUrl": "PNG_50.png",
+      "downloadUrlPng": "./img/png/PNG_50.png",
+      "downloadUrlSvg": "./img/svg/SVG_50.svg",
+      "brandColor": "#3f5493"
+    },
+    {
+      "id": 51,
+      "university": "광운대",
+      "location": "서울",
+      "imgUrl": "PNG_51.png",
+      "downloadUrlPng": "./img/png/PNG_51.png",
+      "downloadUrlSvg": "./img/svg/SVG_51.svg",
+      "brandColor": "#7A232E"
+    },
+    {
+      "id": 52,
+      "university": "광주가톨릭대",
+      "location": "서울",
+      "imgUrl": "PNG_52.png",
+      "downloadUrlPng": "./img/png/PNG_52.png",
+      "downloadUrlSvg": "./img/svg/SVG_52.svg",
+      "brandColor": "#E52329"
+    },
+    {
+      "id": 53,
+      "university": "광주과학기술원",
+      "location": "서울",
+      "imgUrl": "PNG_53.png",
+      "downloadUrlPng": "./img/png/PNG_53.png",
+      "downloadUrlSvg": "./img/svg/SVG_53.svg",
+      "brandColor": "#D92616"
+    },
+    {
+      "id": 54,
+      "university": "광주교대",
+      "location": "서울",
+      "imgUrl": "PNG_54.png",
+      "downloadUrlPng": "./img/png/PNG_54.png",
+      "downloadUrlSvg": "./img/svg/SVG_54.svg",
+      "brandColor": "#01a043"
+    },
+    {
+      "id": 55,
+      "university": "광주대",
+      "location": "서울",
+      "imgUrl": "PNG_55.png",
+      "downloadUrlPng": "./img/png/PNG_55.png",
+      "downloadUrlSvg": "./img/svg/SVG_55.svg",
+      "brandColor": "#A1B93A"
+    },
+    {
+      "id": 56,
+      "university": "광주보건대학",
+      "location": "서울",
+      "imgUrl": "PNG_56.png",
+      "downloadUrlPng": "./img/png/PNG_56.png",
+      "downloadUrlSvg": "./img/svg/SVG_56.svg",
+      "brandColor": "#0080C9"
+    },
+    {
+      "id": 57,
+      "university": "광주여대",
+      "location": "서울",
+      "imgUrl": "PNG_57.png",
+      "downloadUrlPng": "./img/png/PNG_57.png",
+      "downloadUrlSvg": "./img/svg/SVG_57.svg",
+      "brandColor": "#019a86"
+    },
+    {
+      "id": 58,
+      "university": "구미대학",
+      "location": "서울",
+      "imgUrl": "PNG_58.png",
+      "downloadUrlPng": "./img/png/PNG_58.png",
+      "downloadUrlSvg": "./img/svg/SVG_58.svg",
+      "brandColor": "#0058A2"
+    },
+    {
+      "id": 59,
+      "university": "국군간호사관학교",
+      "location": "서울",
+      "imgUrl": "PNG_59.png",
+      "downloadUrlPng": "./img/png/PNG_59.png",
+      "downloadUrlSvg": "./img/svg/SVG_59.svg",
+      "brandColor": "#741d40"
+    },
+    {
+      "id": 60,
+      "university": "국민대",
+      "location": "서울",
+      "imgUrl": "PNG_60.png",
+      "downloadUrlPng": "./img/png/PNG_60.png",
+      "downloadUrlSvg": "./img/svg/SVG_60.svg",
+      "brandColor": "#F2933F"
+    },
+    {
+      "id": 61,
+      "university": "국제대학",
+      "location": "서울",
+      "imgUrl": "PNG_61.png",
+      "downloadUrlPng": "./img/png/PNG_61.png",
+      "downloadUrlSvg": "./img/svg/SVG_61.svg",
+      "brandColor": "#F7941D"
+    },
+    {
+      "id": 62,
+      "university": "군산간호대학",
+      "location": "서울",
+      "imgUrl": "PNG_62.png",
+      "downloadUrlPng": "./img/png/PNG_62.png",
+      "downloadUrlSvg": "./img/svg/SVG_62.svg",
+      "brandColor": "#007c9d"
+    },
+    {
+      "id": 63,
+      "university": "군산대",
+      "location": "서울",
+      "imgUrl": "PNG_63.png",
+      "downloadUrlPng": "./img/png/PNG_63.png",
+      "downloadUrlSvg": "./img/svg/SVG_63.svg",
+      "brandColor": "#0F549D"
+    },
+    {
+      "id": 64,
+      "university": "군장대학",
+      "location": "서울",
+      "imgUrl": "PNG_64.png",
+      "downloadUrlPng": "./img/png/PNG_64.png",
+      "downloadUrlSvg": "./img/svg/SVG_64.svg",
+      "brandColor": "#009740"
+    },
+    {
+      "id": 65,
+      "university": "그리스도대",
+      "location": "서울",
+      "imgUrl": "PNG_65.png",
+      "downloadUrlPng": "./img/png/PNG_65.png",
+      "downloadUrlSvg": "./img/svg/SVG_65.svg",
+      "brandColor": "#243769"
+    },
+    {
+      "id": 66,
+      "university": "극동대",
+      "location": "서울",
+      "imgUrl": "PNG_66.png",
+      "downloadUrlPng": "./img/png/PNG_66.png",
+      "downloadUrlSvg": "./img/svg/SVG_66.svg",
+      "brandColor": "#1C1D1B"
+    },
+    {
+      "id": 67,
+      "university": "금강대",
+      "location": "서울",
+      "imgUrl": "PNG_67.png",
+      "downloadUrlPng": "./img/png/PNG_67.png",
+      "downloadUrlSvg": "./img/svg/SVG_67.svg",
+      "brandColor": "#06509C"
+    },
+    {
+      "id": 68,
+      "university": "금오공과대",
+      "location": "서울",
+      "imgUrl": "PNG_68.png",
+      "downloadUrlPng": "./img/png/PNG_68.png",
+      "downloadUrlSvg": "./img/svg/SVG_68.svg",
+      "brandColor": "#005687"
+    },
+    {
+      "id": 69,
+      "university": "기독간호대학",
+      "location": "서울",
+      "imgUrl": "PNG_69.png",
+      "downloadUrlPng": "./img/png/PNG_69.png",
+      "downloadUrlSvg": "./img/svg/SVG_69.svg",
+      "brandColor": "#06509C"
+    },
+    {
+      "id": 70,
+      "university": "김천과학대학",
+      "location": "서울",
+      "imgUrl": "PNG_70.png",
+      "downloadUrlPng": "./img/png/PNG_70.png",
+      "downloadUrlSvg": "./img/svg/SVG_70.svg",
+      "brandColor": "#00A4A7"
+    },
+    {
+      "id": 71,
+      "university": "김천대",
+      "location": "서울",
+      "imgUrl": "PNG_71.png",
+      "downloadUrlPng": "./img/png/PNG_71.png",
+      "downloadUrlSvg": "./img/svg/SVG_71.svg",
+      "brandColor": "#9E0044"
+    },
+    {
+      "id": 72,
+      "university": "김포대학",
+      "location": "서울",
+      "imgUrl": "PNG_72.png",
+      "downloadUrlPng": "./img/png/PNG_72.png",
+      "downloadUrlSvg": "./img/svg/SVG_72.svg",
+      "brandColor": "#8A0A28"
+    },
+    {
+      "id": 73,
+      "university": "김해대학",
+      "location": "서울",
+      "imgUrl": "PNG_73.png",
+      "downloadUrlPng": "./img/png/PNG_73.png",
+      "downloadUrlSvg": "./img/svg/SVG_73.svg",
+      "brandColor": "#0973B9"
+    },
+    {
+      "id": 74,
+      "university": "꽃동네대",
+      "location": "서울",
+      "imgUrl": "PNG_74.png",
+      "downloadUrlPng": "./img/png/PNG_74.png",
+      "downloadUrlSvg": "./img/svg/SVG_74.svg",
+      "brandColor": "#C80C0F"
+    },
+    {
+      "id": 75,
+      "university": "나사렛대",
+      "location": "서울",
+      "imgUrl": "PNG_75.png",
+      "downloadUrlPng": "./img/png/PNG_75.png",
+      "downloadUrlSvg": "./img/svg/SVG_75.svg",
+      "brandColor": "#AE0F0A"
+    },
+    {
+      "id": 76,
+      "university": "남부대",
+      "location": "서울",
+      "imgUrl": "PNG_76.png",
+      "downloadUrlPng": "./img/png/PNG_76.png",
+      "downloadUrlSvg": "./img/svg/SVG_76.svg",
+      "brandColor": "#034EA2"
+    },
+    {
+      "id": 77,
+      "university": "남서울대",
+      "location": "서울",
+      "imgUrl": "PNG_77.png",
+      "downloadUrlPng": "./img/png/PNG_77.png",
+      "downloadUrlSvg": "./img/svg/SVG_77.svg",
+      "brandColor": "#0095AD"
+    },
+    {
+      "id": 78,
+      "university": "농협대학",
+      "location": "서울",
+      "imgUrl": "PNG_78.png",
+      "downloadUrlPng": "./img/png/PNG_78.png",
+      "downloadUrlSvg": "./img/svg/SVG_78.svg",
+      "brandColor": "#056bb6"
+    },
+    {
+      "id": 79,
+      "university": "단국대",
+      "location": "서울",
+      "imgUrl": "PNG_79.png",
+      "downloadUrlPng": "./img/png/PNG_79.png",
+      "downloadUrlSvg": "./img/svg/SVG_79.svg",
+      "brandColor": "#004993"
+    },
+    {
+      "id": 80,
+      "university": "대경대학",
+      "location": "서울",
+      "imgUrl": "PNG_80.png",
+      "downloadUrlPng": "./img/png/PNG_80.png",
+      "downloadUrlSvg": "./img/svg/SVG_80.svg",
+      "brandColor": "#6F3995"
+    },
+    {
+      "id": 81,
+      "university": "대구가톨릭대",
+      "location": "서울",
+      "imgUrl": "PNG_81.png",
+      "downloadUrlPng": "./img/png/PNG_81.png",
+      "downloadUrlSvg": "./img/svg/SVG_81.svg",
+      "brandColor": "#003DA6"
+    },
+    {
+      "id": 82,
+      "university": "대구경북과학기술원",
+      "location": "서울",
+      "imgUrl": "PNG_82.png",
+      "downloadUrlPng": "./img/png/PNG_82.png",
+      "downloadUrlSvg": "./img/svg/SVG_82.svg",
+      "brandColor": "#00B9EE"
+    },
+    {
+      "id": 83,
+      "university": "대구공업대학",
+      "location": "서울",
+      "imgUrl": "PNG_83.png",
+      "downloadUrlPng": "./img/png/PNG_83.png",
+      "downloadUrlSvg": "./img/svg/SVG_83.svg",
+      "brandColor": "#000000"
+    },
+    {
+      "id": 84,
+      "university": "대구과학대학",
+      "location": "서울",
+      "imgUrl": "PNG_84.png",
+      "downloadUrlPng": "./img/png/PNG_84.png",
+      "downloadUrlSvg": "./img/svg/SVG_84.svg",
+      "brandColor": "#A24641"
+    },
+    {
+      "id": 85,
+      "university": "대구교대",
+      "location": "서울",
+      "imgUrl": "PNG_85.png",
+      "downloadUrlPng": "./img/png/PNG_85.png",
+      "downloadUrlSvg": "./img/svg/SVG_85.svg",
+      "brandColor": "#008dd0"
+    },
+    {
+      "id": 86,
+      "university": "대구대",
+      "location": "서울",
+      "imgUrl": "PNG_86.png",
+      "downloadUrlPng": "./img/png/PNG_86.png",
+      "downloadUrlSvg": "./img/svg/SVG_86.svg",
+      "brandColor": "#007764"
+    },
+    {
+      "id": 87,
+      "university": "대구미래대학",
+      "location": "서울",
+      "imgUrl": "PNG_87.png",
+      "downloadUrlPng": "./img/png/PNG_87.png",
+      "downloadUrlSvg": "./img/svg/SVG_87.svg",
+      "brandColor": "#000000"
+    },
+    {
+      "id": 88,
+      "university": "대구보건대학",
+      "location": "서울",
+      "imgUrl": "PNG_88.png",
+      "downloadUrlPng": "./img/png/PNG_88.png",
+      "downloadUrlSvg": "./img/svg/SVG_88.svg",
+      "brandColor": "#a00144"
+    },
+    {
+      "id": 89,
+      "university": "대구예술대",
+      "location": "서울",
+      "imgUrl": "PNG_89.png",
+      "downloadUrlPng": "./img/png/PNG_89.png",
+      "downloadUrlSvg": "./img/svg/SVG_89.svg",
+      "brandColor": "#E73088"
+    },
+    {
+      "id": 90,
+      "university": "대구외대",
+      "location": "서울",
+      "imgUrl": "PNG_90.png",
+      "downloadUrlPng": "./img/png/PNG_90.png",
+      "downloadUrlSvg": "./img/svg/SVG_90.svg",
+      "brandColor": "#0a2a6e"
+    },
+    {
+      "id": 91,
+      "university": "대구한의대",
+      "location": "서울",
+      "imgUrl": "PNG_91.png",
+      "downloadUrlPng": "./img/png/PNG_91.png",
+      "downloadUrlSvg": "./img/svg/SVG_91.svg",
+      "brandColor": "#2A2F70"
+    },
+    {
+      "id": 92,
+      "university": "대덕대학",
+      "location": "서울",
+      "imgUrl": "PNG_92.png",
+      "downloadUrlPng": "./img/png/PNG_92.png",
+      "downloadUrlSvg": "./img/svg/SVG_92.svg",
+      "brandColor": "#00A77E"
+    },
+    {
+      "id": 93,
+      "university": "대동대학",
+      "location": "서울",
+      "imgUrl": "PNG_93.png",
+      "downloadUrlPng": "./img/png/PNG_93.png",
+      "downloadUrlSvg": "./img/svg/SVG_93.svg",
+      "brandColor": "#3D3972"
+    },
+    {
+      "id": 94,
+      "university": "대림대학",
+      "location": "서울",
+      "imgUrl": "PNG_94.png",
+      "downloadUrlPng": "./img/png/PNG_94.png",
+      "downloadUrlSvg": "./img/svg/SVG_94.svg",
+      "brandColor": "#0A96CA"
+    },
+    {
+      "id": 95,
+      "university": "대신대",
+      "location": "서울",
+      "imgUrl": "PNG_95.png",
+      "downloadUrlPng": "./img/png/PNG_95.png",
+      "downloadUrlSvg": "./img/svg/SVG_95.svg",
+      "brandColor": "#FADA33"
+    },
+    {
+      "id": 96,
+      "university": "대원대학",
+      "location": "서울",
+      "imgUrl": "PNG_96.png",
+      "downloadUrlPng": "./img/png/PNG_96.png",
+      "downloadUrlSvg": "./img/svg/SVG_96.svg",
+      "brandColor": "#03562F"
+    },
+    {
+      "id": 97,
+      "university": "대전가톨릭대",
+      "location": "서울",
+      "imgUrl": "PNG_97.png",
+      "downloadUrlPng": "./img/png/PNG_97.png",
+      "downloadUrlSvg": "./img/svg/SVG_97.svg",
+      "brandColor": "#6B4299"
+    },
+    {
+      "id": 98,
+      "university": "대전대",
+      "location": "서울",
+      "imgUrl": "PNG_98.png",
+      "downloadUrlPng": "./img/png/PNG_98.png",
+      "downloadUrlSvg": "./img/svg/SVG_98.svg",
+      "brandColor": "#00723F"
+    },
+    {
+      "id": 99,
+      "university": "대전보건대학",
+      "location": "서울",
+      "imgUrl": "PNG_99.png",
+      "downloadUrlPng": "./img/png/PNG_99.png",
+      "downloadUrlSvg": "./img/svg/SVG_99.svg",
+      "brandColor": "#022555"
+    },
+    {
+      "id": 100,
+      "university": "대전신학대",
+      "location": "서울",
+      "imgUrl": "PNG_100.png",
+      "downloadUrlPng": "./img/png/PNG_100.png",
+      "downloadUrlSvg": "./img/svg/SVG_100.svg",
+      "brandColor": "#954429"
+    },
+    {
+      "id": 101,
+      "university": "대진대",
+      "location": "서울",
+      "imgUrl": "PNG_101.png",
+      "downloadUrlPng": "./img/png/PNG_101.png",
+      "downloadUrlSvg": "./img/svg/SVG_101.svg",
+      "brandColor": "#0d2474"
+    },
+    {
+      "id": 102,
+      "university": "덕성여대",
+      "location": "서울",
+      "imgUrl": "PNG_102.png",
+      "downloadUrlPng": "./img/png/PNG_102.png",
+      "downloadUrlSvg": "./img/svg/SVG_102.svg",
+      "brandColor": "#9C193E"
+    },
+    {
+      "id": 103,
+      "university": "동강대학",
+      "location": "서울",
+      "imgUrl": "PNG_103.png",
+      "downloadUrlPng": "./img/png/PNG_103.png",
+      "downloadUrlSvg": "./img/svg/SVG_103.svg",
+      "brandColor": "#0066B3"
+    },
+    {
+      "id": 104,
+      "university": "동국대",
+      "location": "서울",
+      "imgUrl": "PNG_104.png",
+      "downloadUrlPng": "./img/png/PNG_104.png",
+      "downloadUrlSvg": "./img/svg/SVG_104.svg",
+      "brandColor": " #E17100"
+    },
+    {
+      "id": 105,
+      "university": "동남보건대학",
+      "location": "서울",
+      "imgUrl": "PNG_105.png",
+      "downloadUrlPng": "./img/png/PNG_105.png",
+      "downloadUrlSvg": "./img/svg/SVG_105.svg",
+      "brandColor": "#00463D"
+    },
+    {
+      "id": 106,
+      "university": "동덕여대",
+      "location": "서울",
+      "imgUrl": "PNG_106.png",
+      "downloadUrlPng": "./img/png/PNG_106.png",
+      "downloadUrlSvg": "./img/svg/SVG_106.svg",
+      "brandColor": "#8D2D43"
+    },
+    {
+      "id": 107,
+      "university": "동명대",
+      "location": "서울",
+      "imgUrl": "PNG_107.png",
+      "downloadUrlPng": "./img/png/PNG_107.png",
+      "downloadUrlSvg": "./img/svg/SVG_107.svg",
+      "brandColor": "#339838"
+    },
+    {
+      "id": 108,
+      "university": "동부산대학",
+      "location": "서울",
+      "imgUrl": "PNG_108.png",
+      "downloadUrlPng": "./img/png/PNG_108.png",
+      "downloadUrlSvg": "./img/svg/SVG_108.svg",
+      "brandColor": "#eb1c24"
+    },
+    {
+      "id": 109,
+      "university": "동서대",
+      "location": "서울",
+      "imgUrl": "PNG_109.png",
+      "downloadUrlPng": "./img/png/PNG_109.png",
+      "downloadUrlSvg": "./img/svg/SVG_109.svg",
+      "brandColor": "#DB052C"
+    },
+    {
+      "id": 110,
+      "university": "동서울대학",
+      "location": "서울",
+      "imgUrl": "PNG_110.png",
+      "downloadUrlPng": "./img/png/PNG_110.png",
+      "downloadUrlSvg": "./img/svg/SVG_110.svg",
+      "brandColor": "#006476"
+    },
+    {
+      "id": 111,
+      "university": "동신대",
+      "location": "서울",
+      "imgUrl": "PNG_111.png",
+      "downloadUrlPng": "./img/png/PNG_111.png",
+      "downloadUrlSvg": "./img/svg/SVG_111.svg",
+      "brandColor": "#0054A5"
+    },
+    {
+      "id": 112,
+      "university": "동아대",
+      "location": "서울",
+      "imgUrl": "PNG_112.png",
+      "downloadUrlPng": "./img/png/PNG_112.png",
+      "downloadUrlSvg": "./img/svg/SVG_112.svg",
+      "brandColor": "#0E3E94"
+    },
+    {
+      "id": 113,
+      "university": "동아방송예술대학",
+      "location": "서울",
+      "imgUrl": "PNG_113.png",
+      "downloadUrlPng": "./img/png/PNG_113.png",
+      "downloadUrlSvg": "./img/svg/SVG_113.svg",
+      "brandColor": "#e31925"
+    },
+    {
+      "id": 114,
+      "university": "동아인재대학",
+      "location": "서울",
+      "imgUrl": "PNG_114.png",
+      "downloadUrlPng": "./img/png/PNG_114.png",
+      "downloadUrlSvg": "./img/svg/SVG_114.svg",
+      "brandColor": "#0070c5"
+    },
+    {
+      "id": 115,
+      "university": "동양대",
+      "location": "서울",
+      "imgUrl": "PNG_115.png",
+      "downloadUrlPng": "./img/png/PNG_115.png",
+      "downloadUrlSvg": "./img/svg/SVG_115.svg",
+      "brandColor": "#013b82"
+    },
+    {
+      "id": 116,
+      "university": "동양미래대학",
+      "location": "서울",
+      "imgUrl": "PNG_116.png",
+      "downloadUrlPng": "./img/png/PNG_116.png",
+      "downloadUrlSvg": "./img/svg/SVG_116.svg",
+      "brandColor": "#004993"
+    },
+    {
+      "id": 117,
+      "university": "동원과학기술대학",
+      "location": "서울",
+      "imgUrl": "PNG_117.png",
+      "downloadUrlPng": "./img/png/PNG_117.png",
+      "downloadUrlSvg": "./img/svg/SVG_117.svg",
+      "brandColor": "#2d3e54"
+    },
+    {
+      "id": 118,
+      "university": "동원대학",
+      "location": "서울",
+      "imgUrl": "PNG_118.png",
+      "downloadUrlPng": "./img/png/PNG_118.png",
+      "downloadUrlSvg": "./img/svg/SVG_118.svg",
+      "brandColor": "#004895"
+    },
+    {
+      "id": 119,
+      "university": "동의과학대학",
+      "location": "서울",
+      "imgUrl": "PNG_119.png",
+      "downloadUrlPng": "./img/png/PNG_119.png",
+      "downloadUrlSvg": "./img/svg/SVG_119.svg",
+      "brandColor": "#ED342E"
+    },
+    {
+      "id": 120,
+      "university": "동의대",
+      "location": "서울",
+      "imgUrl": "PNG_120.png",
+      "downloadUrlPng": "./img/png/PNG_120.png",
+      "downloadUrlSvg": "./img/svg/SVG_120.svg",
+      "brandColor": "#0058A2"
+    },
+    {
+      "id": 121,
+      "university": "동주대학",
+      "location": "서울",
+      "imgUrl": "PNG_121.png",
+      "downloadUrlPng": "./img/png/PNG_121.png",
+      "downloadUrlSvg": "./img/svg/SVG_121.svg",
+      "brandColor": "#003B8F"
+    },
+    {
+      "id": 122,
+      "university": "두원공과대학",
+      "location": "서울",
+      "imgUrl": "PNG_122.png",
+      "downloadUrlPng": "./img/png/PNG_122.png",
+      "downloadUrlSvg": "./img/svg/SVG_122.svg",
+      "brandColor": "#009380"
+    },
+    {
+      "id": 123,
+      "university": "루터대",
+      "location": "서울",
+      "imgUrl": "PNG_123.png",
+      "downloadUrlPng": "./img/png/PNG_123.png",
+      "downloadUrlSvg": "./img/svg/SVG_123.svg",
+      "brandColor": "#034da2"
+    },
+    {
+      "id": 124,
+      "university": "마산대학",
+      "location": "서울",
+      "imgUrl": "PNG_124.png",
+      "downloadUrlPng": "./img/png/PNG_124.png",
+      "downloadUrlSvg": "./img/svg/SVG_124.svg",
+      "brandColor": "#16476E"
+    },
+    {
+      "id": 125,
+      "university": "명지대",
+      "location": "서울",
+      "imgUrl": "PNG_125.png",
+      "downloadUrlPng": "./img/png/PNG_125.png",
+      "downloadUrlSvg": "./img/svg/SVG_125.svg",
+      "brandColor": "#002E62"
+    },
+    {
+      "id": 126,
+      "university": "목원대",
+      "location": "서울",
+      "imgUrl": "PNG_126.png",
+      "downloadUrlPng": "./img/png/PNG_126.png",
+      "downloadUrlSvg": "./img/svg/SVG_126.svg",
+      "brandColor": "#A52B43"
+    },
+    {
+      "id": 127,
+      "university": "목포가톨릭대",
+      "location": "서울",
+      "imgUrl": "PNG_127.png",
+      "downloadUrlPng": "./img/png/PNG_127.png",
+      "downloadUrlSvg": "./img/svg/SVG_127.svg",
+      "brandColor": "#2b3b88"
+    },
+    {
+      "id": 128,
+      "university": "목포과학대학",
+      "location": "서울",
+      "imgUrl": "PNG_128.png",
+      "downloadUrlPng": "./img/png/PNG_128.png",
+      "downloadUrlSvg": "./img/svg/SVG_128.svg",
+      "brandColor": "#26298f"
+    },
+    {
+      "id": 129,
+      "university": "목포대",
+      "location": "서울",
+      "imgUrl": "PNG_129.png",
+      "downloadUrlPng": "./img/png/PNG_129.png",
+      "downloadUrlSvg": "./img/svg/SVG_129.svg",
+      "brandColor": "#00948D"
+    },
+    {
+      "id": 130,
+      "university": "목포해양대",
+      "location": "서울",
+      "imgUrl": "PNG_130.png",
+      "downloadUrlPng": "./img/png/PNG_130.png",
+      "downloadUrlSvg": "./img/svg/SVG_130.svg",
+      "brandColor": "#005D95"
+    },
+    {
+      "id": 131,
+      "university": "문경대학",
+      "location": "서울",
+      "imgUrl": "PNG_131.png",
+      "downloadUrlPng": "./img/png/PNG_131.png",
+      "downloadUrlSvg": "./img/svg/SVG_131.svg",
+      "brandColor": "#163E95"
+    },
+    {
+      "id": 132,
+      "university": "배재대",
+      "location": "서울",
+      "imgUrl": "PNG_132.png",
+      "downloadUrlPng": "./img/png/PNG_132.png",
+      "downloadUrlSvg": "./img/svg/SVG_132.svg",
+      "brandColor": "#004F9F"
+    },
+    {
+      "id": 133,
+      "university": "배화여자대학",
+      "location": "서울",
+      "imgUrl": "PNG_133.png",
+      "downloadUrlPng": "./img/png/PNG_133.png",
+      "downloadUrlSvg": "./img/svg/SVG_133.svg",
+      "brandColor": "#0070b8"
+    },
+    {
+      "id": 134,
+      "university": "백석대",
+      "location": "서울",
+      "imgUrl": "PNG_134.png",
+      "downloadUrlPng": "./img/png/PNG_134.png",
+      "downloadUrlSvg": "./img/svg/SVG_134.svg",
+      "brandColor": "#004899"
+    },
+    {
+      "id": 135,
+      "university": "백석문화대학",
+      "location": "서울",
+      "imgUrl": "PNG_135.png",
+      "downloadUrlPng": "./img/png/PNG_135.png",
+      "downloadUrlSvg": "./img/svg/SVG_135.svg",
+      "brandColor": "#004899"
+    },
+    {
+      "id": 136,
+      "university": "백제예술대학",
+      "location": "서울",
+      "imgUrl": "PNG_136.png",
+      "downloadUrlPng": "./img/png/PNG_136.png",
+      "downloadUrlSvg": "./img/svg/SVG_136.svg",
+      "brandColor": "#ee9a13"
+    },
+    {
+      "id": 137,
+      "university": "부경대",
+      "location": "서울",
+      "imgUrl": "PNG_137.png",
+      "downloadUrlPng": "./img/png/PNG_137.png",
+      "downloadUrlSvg": "./img/svg/SVG_137.svg",
+      "brandColor": "#003671"
+    },
+    {
+      "id": 138,
+      "university": "부산가톨릭대",
+      "location": "서울",
+      "imgUrl": "PNG_138.png",
+      "downloadUrlPng": "./img/png/PNG_138.png",
+      "downloadUrlSvg": "./img/svg/SVG_138.svg",
+      "brandColor": "#aa0f5b"
+    },
+    {
+      "id": 139,
+      "university": "부산경상대학",
+      "location": "서울",
+      "imgUrl": "PNG_139.png",
+      "downloadUrlPng": "./img/png/PNG_139.png",
+      "downloadUrlSvg": "./img/svg/SVG_139.svg",
+      "brandColor": "#1E3466"
+    },
+    {
+      "id": 140,
+      "university": "부산과학기술대학",
+      "location": "서울",
+      "imgUrl": "PNG_140.png",
+      "downloadUrlPng": "./img/png/PNG_140.png",
+      "downloadUrlSvg": "./img/svg/SVG_140.svg",
+      "brandColor": "#00B4E6"
+    },
+    {
+      "id": 141,
+      "university": "부산교대",
+      "location": "서울",
+      "imgUrl": "PNG_141.png",
+      "downloadUrlPng": "./img/png/PNG_141.png",
+      "downloadUrlSvg": "./img/svg/SVG_141.svg",
+      "brandColor": "#BF1616"
+    },
+    {
+      "id": 142,
+      "university": "부산대",
+      "location": "서울",
+      "imgUrl": "PNG_142.png",
+      "downloadUrlPng": "./img/png/PNG_142.png",
+      "downloadUrlSvg": "./img/svg/SVG_142.svg",
+      "brandColor": "#004ea2"
+    },
+    {
+      "id": 143,
+      "university": "부산여자대학",
+      "location": "서울",
+      "imgUrl": "PNG_143.png",
+      "downloadUrlPng": "./img/png/PNG_143.png",
+      "downloadUrlSvg": "./img/svg/SVG_143.svg",
+      "brandColor": "#007130"
+    },
+    {
+      "id": 144,
+      "university": "부산예술대학",
+      "location": "서울",
+      "imgUrl": "PNG_144.png",
+      "downloadUrlPng": "./img/png/PNG_144.png",
+      "downloadUrlSvg": "./img/svg/SVG_144.svg",
+      "brandColor": "#0c4da2"
+    },
+    {
+      "id": 145,
+      "university": "부산외대",
+      "location": "서울",
+      "imgUrl": "PNG_145.png",
+      "downloadUrlPng": "./img/png/PNG_145.png",
+      "downloadUrlSvg": "./img/svg/SVG_145.svg",
+      "brandColor": "#FFCA05"
+    },
+    {
+      "id": 146,
+      "university": "부산장신대",
+      "location": "서울",
+      "imgUrl": "PNG_146.png",
+      "downloadUrlPng": "./img/png/PNG_146.png",
+      "downloadUrlSvg": "./img/svg/SVG_146.svg",
+      "brandColor": "#0f5da7"
+    },
+    {
+      "id": 147,
+      "university": "부천대학",
+      "location": "서울",
+      "imgUrl": "PNG_147.png",
+      "downloadUrlPng": "./img/png/PNG_147.png",
+      "downloadUrlSvg": "./img/svg/SVG_147.svg",
+      "brandColor": "#F9B000"
+    },
+    {
+      "id": 148,
+      "university": "삼육대",
+      "location": "서울",
+      "imgUrl": "PNG_148.png",
+      "downloadUrlPng": "./img/png/PNG_148.png",
+      "downloadUrlSvg": "./img/svg/SVG_148.svg",
+      "brandColor": "#14387F"
+    },
+    {
+      "id": 149,
+      "university": "삼육보건대학",
+      "location": "서울",
+      "imgUrl": "PNG_149.png",
+      "downloadUrlPng": "./img/png/PNG_149.png",
+      "downloadUrlSvg": "./img/svg/SVG_149.svg",
+      "brandColor": "#0f64a9"
+    },
+    {
+      "id": 150,
+      "university": "상명대",
+      "location": "서울",
+      "imgUrl": "PNG_150.png",
+      "downloadUrlPng": "./img/png/PNG_150.png",
+      "downloadUrlSvg": "./img/svg/SVG_150.svg",
+      "brandColor": "#2f3490"
+    },
+    {
+      "id": 151,
+      "university": "상지대",
+      "location": "서울",
+      "imgUrl": "PNG_151.png",
+      "downloadUrlPng": "./img/png/PNG_151.png",
+      "downloadUrlSvg": "./img/svg/SVG_151.svg",
+      "brandColor": "#10367A"
+    },
+    {
+      "id": 152,
+      "university": "상지영서대학",
+      "location": "서울",
+      "imgUrl": "PNG_152.png",
+      "downloadUrlPng": "./img/png/PNG_152.png",
+      "downloadUrlSvg": "./img/svg/SVG_152.svg",
+      "brandColor": "#D6B36A"
+    },
+    {
+      "id": 153,
+      "university": "서강대",
+      "location": "서울",
+      "imgUrl": "PNG_153.png",
+      "downloadUrlPng": "./img/png/PNG_153.png",
+      "downloadUrlSvg": "./img/svg/SVG_153.svg",
+      "brandColor": "#AE0F0A"
+    },
+    {
+      "id": 154,
+      "university": "서경대",
+      "location": "서울",
+      "imgUrl": "PNG_154.png",
+      "downloadUrlPng": "./img/png/PNG_154.png",
+      "downloadUrlSvg": "./img/svg/SVG_154.svg",
+      "brandColor": "#76B72A"
+    },
+    {
+      "id": 155,
+      "university": "서남대",
+      "location": "서울",
+      "imgUrl": "PNG_155.png",
+      "downloadUrlPng": "./img/png/PNG_155.png",
+      "downloadUrlSvg": "./img/svg/SVG_155.svg",
+      "brandColor": "#0b4da1"
+    },
+    {
+      "id": 156,
+      "university": "서라벌대학",
+      "location": "서울",
+      "imgUrl": "PNG_156.png",
+      "downloadUrlPng": "./img/png/PNG_156.png",
+      "downloadUrlSvg": "./img/svg/SVG_156.svg",
+      "brandColor": "#EB6332"
+    },
+    {
+      "id": 157,
+      "university": "서영대학(광주)",
+      "location": "서울",
+      "imgUrl": "PNG_157.png",
+      "downloadUrlPng": "./img/png/PNG_157.png",
+      "downloadUrlSvg": "./img/svg/SVG_157.svg",
+      "brandColor": "#0069B4"
+    },
+    {
+      "id": 158,
+      "university": "서울과학기술대",
+      "location": "서울",
+      "imgUrl": "PNG_158.png",
+      "downloadUrlPng": "./img/png/PNG_158.png",
+      "downloadUrlSvg": "./img/svg/SVG_158.svg",
+      "brandColor": "#003A79"
+    },
+    {
+      "id": 159,
+      "university": "서울교대",
+      "location": "서울",
+      "imgUrl": "PNG_159.png",
+      "downloadUrlPng": "./img/png/PNG_159.png",
+      "downloadUrlSvg": "./img/svg/SVG_159.svg",
+      "brandColor": "#1D1D1B"
+    },
+    {
+      "id": 160,
+      "university": "서울기독대",
+      "location": "서울",
+      "imgUrl": "PNG_160.png",
+      "downloadUrlPng": "./img/png/PNG_160.png",
+      "downloadUrlSvg": "./img/svg/SVG_160.svg",
+      "brandColor": "#1B9969"
+    },
+    {
+      "id": 161,
+      "university": "서울대",
+      "location": "서울",
+      "imgUrl": "PNG_161.png",
+      "downloadUrlPng": "./img/png/PNG_161.png",
+      "downloadUrlSvg": "./img/svg/SVG_161.svg",
+      "brandColor": "#22317F"
+    },
+    {
+      "id": 162,
+      "university": "서울시립대",
+      "location": "서울",
+      "imgUrl": "PNG_162.png",
+      "downloadUrlPng": "./img/png/PNG_162.png",
+      "downloadUrlSvg": "./img/svg/SVG_162.svg",
+      "brandColor": " #1B3280"
+    },
+    {
+      "id": 163,
+      "university": "서울신학대",
+      "location": "서울",
+      "imgUrl": "PNG_163.png",
+      "downloadUrlPng": "./img/png/PNG_163.png",
+      "downloadUrlSvg": "./img/svg/SVG_163.svg",
+      "brandColor": "#0071AD"
+    },
+    {
+      "id": 164,
+      "university": "서울여대",
+      "location": "서울",
+      "imgUrl": "PNG_164.png",
+      "downloadUrlPng": "./img/png/PNG_164.png",
+      "downloadUrlSvg": "./img/svg/SVG_164.svg",
+      "brandColor": "#A63233"
+    },
+    {
+      "id": 165,
+      "university": "서울여자간호대학",
+      "location": "서울",
+      "imgUrl": "PNG_165.png",
+      "downloadUrlPng": "./img/png/PNG_165.png",
+      "downloadUrlSvg": "./img/svg/SVG_165.svg",
+      "brandColor": "#0d6db7"
+    },
+    {
+      "id": 166,
+      "university": "서울예술대학",
+      "location": "서울",
+      "imgUrl": "PNG_166.png",
+      "downloadUrlPng": "./img/png/PNG_166.png",
+      "downloadUrlSvg": "./img/svg/SVG_166.svg",
+      "brandColor": "#c4161c"
+    },
+    {
+      "id": 167,
+      "university": "서울장신대",
+      "location": "서울",
+      "imgUrl": "PNG_167.png",
+      "downloadUrlPng": "./img/png/PNG_167.png",
+      "downloadUrlSvg": "./img/svg/SVG_167.svg",
+      "brandColor": "#B0004A"
+    },
+    {
+      "id": 168,
+      "university": "서원대",
+      "location": "서울",
+      "imgUrl": "PNG_168.png",
+      "downloadUrlPng": "./img/png/PNG_168.png",
+      "downloadUrlSvg": "./img/svg/SVG_168.svg",
+      "brandColor": "#0F298F"
+    },
+    {
+      "id": 169,
+      "university": "서일대학",
+      "location": "서울",
+      "imgUrl": "PNG_169.png",
+      "downloadUrlPng": "./img/png/PNG_169.png",
+      "downloadUrlSvg": "./img/svg/SVG_169.svg",
+      "brandColor": "#014da2"
+    },
+    {
+      "id": 170,
+      "university": "서정대학",
+      "location": "서울",
+      "imgUrl": "PNG_170.png",
+      "downloadUrlPng": "./img/png/PNG_170.png",
+      "downloadUrlSvg": "./img/svg/SVG_170.svg",
+      "brandColor": "#18499C"
+    },
+    {
+      "id": 171,
+      "university": "서해대학",
+      "location": "서울",
+      "imgUrl": "PNG_171.png",
+      "downloadUrlPng": "./img/png/PNG_171.png",
+      "downloadUrlSvg": "./img/svg/SVG_171.svg",
+      "brandColor": "#f15c30"
+    },
+    {
+      "id": 172,
+      "university": "선린대학",
+      "location": "서울",
+      "imgUrl": "PNG_172.png",
+      "downloadUrlPng": "./img/png/PNG_172.png",
+      "downloadUrlSvg": "./img/svg/SVG_172.svg",
+      "brandColor": "#021098"
+    },
+    {
+      "id": 173,
+      "university": "선문대",
+      "location": "서울",
+      "imgUrl": "PNG_173.png",
+      "downloadUrlPng": "./img/png/PNG_173.png",
+      "downloadUrlSvg": "./img/svg/SVG_173.svg",
+      "brandColor": "#00737E"
+    },
+    {
+      "id": 174,
+      "university": "성결대",
+      "location": "서울",
+      "imgUrl": "PNG_174.png",
+      "downloadUrlPng": "./img/png/PNG_174.png",
+      "downloadUrlSvg": "./img/svg/SVG_174.svg",
+      "brandColor": "#004F9E"
+    },
+    {
+      "id": 175,
+      "university": "성공회대",
+      "location": "서울",
+      "imgUrl": "PNG_175.png",
+      "downloadUrlPng": "./img/png/PNG_175.png",
+      "downloadUrlSvg": "./img/svg/SVG_175.svg",
+      "brandColor": "#231F20"
+    },
+    {
+      "id": 176,
+      "university": "성균관대",
+      "location": "서울",
+      "imgUrl": "PNG_176.png",
+      "downloadUrlPng": "./img/png/PNG_176.png",
+      "downloadUrlSvg": "./img/svg/SVG_176.svg",
+      "brandColor": "#C8D400"
+    },
+    {
+      "id": 177,
+      "university": "성덕대학",
+      "location": "서울",
+      "imgUrl": "PNG_177.png",
+      "downloadUrlPng": "./img/png/PNG_177.png",
+      "downloadUrlSvg": "./img/svg/SVG_177.svg",
+      "brandColor": "#AA114F"
+    },
+    {
+      "id": 178,
+      "university": "세경대학",
+      "location": "서울",
+      "imgUrl": "PNG_178.png",
+      "downloadUrlPng": "./img/png/PNG_178.png",
+      "downloadUrlSvg": "./img/svg/SVG_178.svg",
+      "brandColor": "#0BA550"
+    },
+    {
+      "id": 179,
+      "university": "세명대",
+      "location": "서울",
+      "imgUrl": "PNG_179.png",
+      "downloadUrlPng": "./img/png/PNG_179.png",
+      "downloadUrlSvg": "./img/svg/SVG_179.svg",
+      "brandColor": "#0033A0"
+    },
+    {
+      "id": 180,
+      "university": "세종대",
+      "location": "서울",
+      "imgUrl": "PNG_180.png",
+      "downloadUrlPng": "./img/png/PNG_180.png",
+      "downloadUrlSvg": "./img/svg/SVG_180.svg",
+      "brandColor": "#C3002F"
+    },
+    {
+      "id": 181,
+      "university": "세한대",
+      "location": "서울",
+      "imgUrl": "PNG_181.png",
+      "downloadUrlPng": "./img/png/PNG_181.png",
+      "downloadUrlSvg": "./img/svg/SVG_181.svg",
+      "brandColor": "#2581C4"
+    },
+    {
+      "id": 182,
+      "university": "송곡대학",
+      "location": "서울",
+      "imgUrl": "PNG_182.png",
+      "downloadUrlPng": "./img/png/PNG_182.png",
+      "downloadUrlSvg": "./img/svg/SVG_182.svg",
+      "brandColor": "#3e745a"
+    },
+    {
+      "id": 183,
+      "university": "송원대",
+      "location": "서울",
+      "imgUrl": "PNG_183.png",
+      "downloadUrlPng": "./img/png/PNG_183.png",
+      "downloadUrlSvg": "./img/svg/SVG_183.svg",
+      "brandColor": "#0060af"
+    },
+    {
+      "id": 184,
+      "university": "송호대학",
+      "location": "서울",
+      "imgUrl": "PNG_184.png",
+      "downloadUrlPng": "./img/png/PNG_184.png",
+      "downloadUrlSvg": "./img/svg/SVG_184.svg",
+      "brandColor": "#219244"
+    },
+    {
+      "id": 185,
+      "university": "수성대학",
+      "location": "서울",
+      "imgUrl": "PNG_185.png",
+      "downloadUrlPng": "./img/png/PNG_185.png",
+      "downloadUrlSvg": "./img/svg/SVG_185.svg",
+      "brandColor": "#EF3E42"
+    },
+    {
+      "id": 186,
+      "university": "수원가톨릭대",
+      "location": "서울",
+      "imgUrl": "PNG_186.png",
+      "downloadUrlPng": "./img/png/PNG_186.png",
+      "downloadUrlSvg": "./img/svg/SVG_186.svg",
+      "brandColor": "#5564af"
+    },
+    {
+      "id": 187,
+      "university": "수원과학대학",
+      "location": "서울",
+      "imgUrl": "PNG_187.png",
+      "downloadUrlPng": "./img/png/PNG_187.png",
+      "downloadUrlSvg": "./img/svg/SVG_187.svg",
+      "brandColor": "#003361"
+    },
+    {
+      "id": 188,
+      "university": "수원대",
+      "location": "서울",
+      "imgUrl": "PNG_188.png",
+      "downloadUrlPng": "./img/png/PNG_188.png",
+      "downloadUrlSvg": "./img/svg/SVG_188.svg",
+      "brandColor": "#003361"
+    },
+    {
+      "id": 189,
+      "university": "수원여자대학",
+      "location": "서울",
+      "imgUrl": "PNG_189.png",
+      "downloadUrlPng": "./img/png/PNG_189.png",
+      "downloadUrlSvg": "./img/svg/SVG_189.svg",
+      "brandColor": "#E40521"
+    },
+    {
+      "id": 190,
+      "university": "숙명여대",
+      "location": "서울",
+      "imgUrl": "PNG_190.png",
+      "downloadUrlPng": "./img/png/PNG_190.png",
+      "downloadUrlSvg": "./img/svg/SVG_190.svg",
+      "brandColor": "#0C2D83"
+    },
+    {
+      "id": 191,
+      "university": "순천대",
+      "location": "서울",
+      "imgUrl": "PNG_191.png",
+      "downloadUrlPng": "./img/png/PNG_191.png",
+      "downloadUrlSvg": "./img/svg/SVG_191.svg",
+      "brandColor": "#006BAB"
+    },
+    {
+      "id": 192,
+      "university": "순천제일대학",
+      "location": "서울",
+      "imgUrl": "PNG_192.png",
+      "downloadUrlPng": "./img/png/PNG_192.png",
+      "downloadUrlSvg": "./img/svg/SVG_192.svg",
+      "brandColor": "#005CA9"
+    },
+    {
+      "id": 193,
+      "university": "순천향대",
+      "location": "서울",
+      "imgUrl": "PNG_193.png",
+      "downloadUrlPng": "./img/png/PNG_193.png",
+      "downloadUrlSvg": "./img/svg/SVG_193.svg",
+      "brandColor": "#00637D"
+    },
+    {
+      "id": 194,
+      "university": "숭실대",
+      "location": "서울",
+      "imgUrl": "PNG_194.png",
+      "downloadUrlPng": "./img/png/PNG_194.png",
+      "downloadUrlSvg": "./img/svg/SVG_194.svg",
+      "brandColor": "#0097C3"
+    },
+    {
+      "id": 195,
+      "university": "숭의여자대학",
+      "location": "서울",
+      "imgUrl": "PNG_195.png",
+      "downloadUrlPng": "./img/png/PNG_195.png",
+      "downloadUrlSvg": "./img/svg/SVG_195.svg",
+      "brandColor": "#004388"
+    },
+    {
+      "id": 196,
+      "university": "신경대",
+      "location": "서울",
+      "imgUrl": "PNG_196.png",
+      "downloadUrlPng": "./img/png/PNG_196.png",
+      "downloadUrlSvg": "./img/svg/SVG_196.svg",
+      "brandColor": "#24459C"
+    },
+    {
+      "id": 197,
+      "university": "신구대학",
+      "location": "서울",
+      "imgUrl": "PNG_197.png",
+      "downloadUrlPng": "./img/png/PNG_197.png",
+      "downloadUrlSvg": "./img/svg/SVG_197.svg",
+      "brandColor": "#95c94a"
+    },
+    {
+      "id": 198,
+      "university": "신라대",
+      "location": "서울",
+      "imgUrl": "PNG_198.png",
+      "downloadUrlPng": "./img/png/PNG_198.png",
+      "downloadUrlSvg": "./img/svg/SVG_198.svg",
+      "brandColor": "#557531"
+    },
+    {
+      "id": 199,
+      "university": "신성대학",
+      "location": "서울",
+      "imgUrl": "PNG_199.png",
+      "downloadUrlPng": "./img/png/PNG_199.png",
+      "downloadUrlSvg": "./img/svg/SVG_199.svg",
+      "brandColor": "#297550"
+    },
+    {
+      "id": 200,
+      "university": "신안산대학",
+      "location": "서울",
+      "imgUrl": "PNG_200.png",
+      "downloadUrlPng": "./img/png/PNG_200.png",
+      "downloadUrlSvg": "./img/svg/SVG_200.svg",
+      "brandColor": "#0095D4"
+    },
+    {
+      "id": 201,
+      "university": "신한대(동두천)",
+      "location": "서울",
+      "imgUrl": "PNG_201.png",
+      "downloadUrlPng": "./img/png/PNG_201.png",
+      "downloadUrlSvg": "./img/svg/SVG_201.svg",
+      "brandColor": "#007BD0"
+    },
+    {
+      "id": 202,
+      "university": "아세아연합신학대",
+      "location": "서울",
+      "imgUrl": "PNG_202.png",
+      "downloadUrlPng": "./img/png/PNG_202.png",
+      "downloadUrlSvg": "./img/svg/SVG_202.svg",
+      "brandColor": "#006c76"
+    },
+    {
+      "id": 203,
+      "university": "아주대",
+      "location": "서울",
+      "imgUrl": "PNG_203.png",
+      "downloadUrlPng": "./img/png/PNG_203.png",
+      "downloadUrlSvg": "./img/svg/SVG_203.svg",
+      "brandColor": "#005CA8"
+    },
+    {
+      "id": 204,
+      "university": "아주자동차대학",
+      "location": "서울",
+      "imgUrl": "PNG_204.png",
+      "downloadUrlPng": "./img/png/PNG_204.png",
+      "downloadUrlSvg": "./img/svg/SVG_204.svg",
+      "brandColor": "#005CA8"
+    },
+    {
+      "id": 205,
+      "university": "안동과학대학",
+      "location": "서울",
+      "imgUrl": "PNG_205.png",
+      "downloadUrlPng": "./img/png/PNG_205.png",
+      "downloadUrlSvg": "./img/svg/SVG_205.svg",
+      "brandColor": "#010f58"
+    },
+    {
+      "id": 206,
+      "university": "안동대",
+      "location": "서울",
+      "imgUrl": "PNG_206.png",
+      "downloadUrlPng": "./img/png/PNG_206.png",
+      "downloadUrlSvg": "./img/svg/SVG_206.svg",
+      "brandColor": "#312782"
+    },
+    {
+      "id": 207,
+      "university": "안산대학",
+      "location": "서울",
+      "imgUrl": "PNG_207.png",
+      "downloadUrlPng": "./img/png/PNG_207.png",
+      "downloadUrlSvg": "./img/svg/SVG_207.svg",
+      "brandColor": "#1A70B2"
+    },
+    {
+      "id": 208,
+      "university": "안양대",
+      "location": "서울",
+      "imgUrl": "PNG_208.png",
+      "downloadUrlPng": "./img/png/PNG_208.png",
+      "downloadUrlSvg": "./img/svg/SVG_208.svg",
+      "brandColor": "#23378B"
+    },
+    {
+      "id": 209,
+      "university": "여주대학",
+      "location": "서울",
+      "imgUrl": "PNG_209.png",
+      "downloadUrlPng": "./img/png/PNG_209.png",
+      "downloadUrlSvg": "./img/svg/SVG_209.svg",
+      "brandColor": "#790018"
+    },
+    {
+      "id": 210,
+      "university": "연성대학",
+      "location": "서울",
+      "imgUrl": "PNG_210.png",
+      "downloadUrlPng": "./img/png/PNG_210.png",
+      "downloadUrlSvg": "./img/svg/SVG_210.svg",
+      "brandColor": "#E6378B"
+    },
+    {
+      "id": 211,
+      "university": "연세대",
+      "location": "서울",
+      "imgUrl": "PNG_211.png",
+      "downloadUrlPng": "./img/png/PNG_211.png",
+      "downloadUrlSvg": "./img/svg/SVG_211.svg",
+      "brandColor": "#003777"
+    },
+    {
+      "id": 212,
+      "university": "연암공업대학",
+      "location": "서울",
+      "imgUrl": "PNG_212.png",
+      "downloadUrlPng": "./img/png/PNG_212.png",
+      "downloadUrlSvg": "./img/svg/SVG_212.svg",
+      "brandColor": "#BF0C3F"
+    },
+    {
+      "id": 213,
+      "university": "영남대",
+      "location": "서울",
+      "imgUrl": "PNG_213.png",
+      "downloadUrlPng": "./img/png/PNG_213.png",
+      "downloadUrlSvg": "./img/svg/SVG_213.svg",
+      "brandColor": "#0a3f7a"
+    },
+    {
+      "id": 214,
+      "university": "영남신학대",
+      "location": "서울",
+      "imgUrl": "PNG_214.png",
+      "downloadUrlPng": "./img/png/PNG_214.png",
+      "downloadUrlSvg": "./img/svg/SVG_214.svg",
+      "brandColor": "#005AA9"
+    },
+    {
+      "id": 215,
+      "university": "영남외국어대학",
+      "location": "서울",
+      "imgUrl": "PNG_215.png",
+      "downloadUrlPng": "./img/png/PNG_215.png",
+      "downloadUrlSvg": "./img/svg/SVG_215.svg",
+      "brandColor": "#0066B3"
+    },
+    {
+      "id": 216,
+      "university": "영남이공대학",
+      "location": "서울",
+      "imgUrl": "PNG_216.png",
+      "downloadUrlPng": "./img/png/PNG_216.png",
+      "downloadUrlSvg": "./img/svg/SVG_216.svg",
+      "brandColor": "#4156A6"
+    },
+    {
+      "id": 217,
+      "university": "영동대",
+      "location": "서울",
+      "imgUrl": "PNG_217.png",
+      "downloadUrlPng": "./img/png/PNG_217.png",
+      "downloadUrlSvg": "./img/svg/SVG_217.svg",
+      "brandColor": "#0068B7"
+    },
+    {
+      "id": 218,
+      "university": "영산대",
+      "location": "서울",
+      "imgUrl": "PNG_218.png",
+      "downloadUrlPng": "./img/png/PNG_218.png",
+      "downloadUrlSvg": "./img/svg/SVG_218.svg",
+      "brandColor": "#F15A22"
+    },
+    {
+      "id": 219,
+      "university": "영산선학대",
+      "location": "서울",
+      "imgUrl": "PNG_219.png",
+      "downloadUrlPng": "./img/png/PNG_219.png",
+      "downloadUrlSvg": "./img/svg/SVG_219.svg",
+      "brandColor": "#175fb1"
+    },
+    {
+      "id": 220,
+      "university": "영진전문대학",
+      "location": "서울",
+      "imgUrl": "PNG_220.png",
+      "downloadUrlPng": "./img/png/PNG_220.png",
+      "downloadUrlSvg": "./img/svg/SVG_220.svg",
+      "brandColor": "#007D97"
+    },
+    {
+      "id": 221,
+      "university": "예수대",
+      "location": "서울",
+      "imgUrl": "PNG_221.png",
+      "downloadUrlPng": "./img/png/PNG_221.png",
+      "downloadUrlSvg": "./img/svg/SVG_221.svg",
+      "brandColor": "#1baacc"
+    },
+    {
+      "id": 222,
+      "university": "예원예술대",
+      "location": "서울",
+      "imgUrl": "PNG_222.png",
+      "downloadUrlPng": "./img/png/PNG_222.png",
+      "downloadUrlSvg": "./img/svg/SVG_222.svg",
+      "brandColor": "#4071B7"
+    },
+    {
+      "id": 223,
+      "university": "오산대학",
+      "location": "서울",
+      "imgUrl": "PNG_223.png",
+      "downloadUrlPng": "./img/png/PNG_223.png",
+      "downloadUrlSvg": "./img/svg/SVG_223.svg",
+      "brandColor": "#0054A6"
+    },
+    {
+      "id": 224,
+      "university": "용인대",
+      "location": "서울",
+      "imgUrl": "PNG_224.png",
+      "downloadUrlPng": "./img/png/PNG_224.png",
+      "downloadUrlSvg": "./img/svg/SVG_224.svg",
+      "brandColor": "#005871"
+    },
+    {
+      "id": 225,
+      "university": "용인송담대학",
+      "location": "서울",
+      "imgUrl": "PNG_225.png",
+      "downloadUrlPng": "./img/png/PNG_225.png",
+      "downloadUrlSvg": "./img/svg/SVG_225.svg",
+      "brandColor": "#004A8F"
+    },
+    {
+      "id": 226,
+      "university": "우석대",
+      "location": "서울",
+      "imgUrl": "PNG_226.png",
+      "downloadUrlPng": "./img/png/PNG_226.png",
+      "downloadUrlSvg": "./img/svg/SVG_226.svg",
+      "brandColor": "#6b9c41"
+    },
+    {
+      "id": 227,
+      "university": "우송대",
+      "location": "서울",
+      "imgUrl": "PNG_227.png",
+      "downloadUrlPng": "./img/png/PNG_227.png",
+      "downloadUrlSvg": "./img/svg/SVG_227.svg",
+      "brandColor": "#0e592d"
+    },
+    {
+      "id": 228,
+      "university": "우송정보대학",
+      "location": "서울",
+      "imgUrl": "PNG_228.png",
+      "downloadUrlPng": "./img/png/PNG_228.png",
+      "downloadUrlSvg": "./img/svg/SVG_228.svg",
+      "brandColor": "#2A376D"
+    },
+    {
+      "id": 229,
+      "university": "UNIST",
+      "location": "서울",
+      "imgUrl": "PNG_229.png",
+      "downloadUrlPng": "./img/png/PNG_229.png",
+      "downloadUrlSvg": "./img/svg/SVG_229.svg",
+      "brandColor": "#001C54"
+    },
+    {
+      "id": 230,
+      "university": "울산과학대학(동부)",
+      "location": "서울",
+      "imgUrl": "PNG_230.png",
+      "downloadUrlPng": "./img/png/PNG_230.png",
+      "downloadUrlSvg": "./img/svg/SVG_230.svg",
+      "brandColor": "#005767"
+    },
+    {
+      "id": 231,
+      "university": "울산대",
+      "location": "서울",
+      "imgUrl": "PNG_231.png",
+      "downloadUrlPng": "./img/png/PNG_231.png",
+      "downloadUrlSvg": "./img/svg/SVG_231.svg",
+      "brandColor": "#00A551"
+    },
+    {
+      "id": 232,
+      "university": "웅지세무대학",
+      "location": "서울",
+      "imgUrl": "PNG_232.png",
+      "downloadUrlPng": "./img/png/PNG_232.png",
+      "downloadUrlSvg": "./img/svg/SVG_232.svg",
+      "brandColor": "#910000"
+    },
+    {
+      "id": 233,
+      "university": "원광대",
+      "location": "서울",
+      "imgUrl": "PNG_233.png",
+      "downloadUrlPng": "./img/png/PNG_233.png",
+      "downloadUrlSvg": "./img/svg/SVG_233.svg",
+      "brandColor": "#144E8B"
+    },
+    {
+      "id": 234,
+      "university": "위덕대",
+      "location": "서울",
+      "imgUrl": "PNG_234.png",
+      "downloadUrlPng": "./img/png/PNG_234.png",
+      "downloadUrlSvg": "./img/svg/SVG_234.svg",
+      "brandColor": "#0f3192"
+    },
+    {
+      "id": 235,
+      "university": "유한대학",
+      "location": "서울",
+      "imgUrl": "PNG_235.png",
+      "downloadUrlPng": "./img/png/PNG_235.png",
+      "downloadUrlSvg": "./img/svg/SVG_235.svg",
+      "brandColor": "#009984"
+    },
+    {
+      "id": 236,
+      "university": "육군사관학교",
+      "location": "서울",
+      "imgUrl": "PNG_236.png",
+      "downloadUrlPng": "./img/png/PNG_236.png",
+      "downloadUrlSvg": "./img/svg/SVG_236.svg",
+      "brandColor": "#008B44"
+    },
+    {
+      "id": 237,
+      "university": "을지대",
+      "location": "서울",
+      "imgUrl": "PNG_237.png",
+      "downloadUrlPng": "./img/png/PNG_237.png",
+      "downloadUrlSvg": "./img/svg/SVG_237.svg",
+      "brandColor": "#082D6C"
+    },
+    {
+      "id": 238,
+      "university": "이화여대",
+      "location": "서울",
+      "imgUrl": "PNG_238.png",
+      "downloadUrlPng": "./img/png/PNG_238.png",
+      "downloadUrlSvg": "./img/svg/SVG_238.svg",
+      "brandColor": "#006A51"
+    },
+    {
+      "id": 239,
+      "university": "인덕대학",
+      "location": "서울",
+      "imgUrl": "PNG_239.png",
+      "downloadUrlPng": "./img/png/PNG_239.png",
+      "downloadUrlSvg": "./img/svg/SVG_239.svg",
+      "brandColor": "#802638"
+    },
+    {
+      "id": 240,
+      "university": "인제대",
+      "location": "서울",
+      "imgUrl": "PNG_240.png",
+      "downloadUrlPng": "./img/png/PNG_240.png",
+      "downloadUrlSvg": "./img/svg/SVG_240.svg",
+      "brandColor": "#00AFB4"
+    },
+    {
+      "id": 241,
+      "university": "인천가톨릭대",
+      "location": "서울",
+      "imgUrl": "PNG_241.png",
+      "downloadUrlPng": "./img/png/PNG_241.png",
+      "downloadUrlSvg": "./img/svg/SVG_241.svg",
+      "brandColor": "#B00D28"
+    },
+    {
+      "id": 242,
+      "university": "인천대",
+      "location": "서울",
+      "imgUrl": "PNG_242.png",
+      "downloadUrlPng": "./img/png/PNG_242.png",
+      "downloadUrlSvg": "./img/svg/SVG_242.svg",
+      "brandColor": "#01499A"
+    },
+    {
+      "id": 243,
+      "university": "인천재능대학",
+      "location": "서울",
+      "imgUrl": "PNG_243.png",
+      "downloadUrlPng": "./img/png/PNG_243.png",
+      "downloadUrlSvg": "./img/svg/SVG_243.svg",
+      "brandColor": "#DF2428"
+    },
+    {
+      "id": 244,
+      "university": "인하공업전문대학",
+      "location": "서울",
+      "imgUrl": "PNG_244.png",
+      "downloadUrlPng": "./img/png/PNG_244.png",
+      "downloadUrlSvg": "./img/svg/SVG_244.svg",
+      "brandColor": "#0A2D88"
+    },
+    {
+      "id": 245,
+      "university": "인하대",
+      "location": "서울",
+      "imgUrl": "PNG_245.png",
+      "downloadUrlPng": "./img/png/PNG_245.png",
+      "downloadUrlSvg": "./img/svg/SVG_245.svg",
+      "brandColor": "#005BAC"
+    },
+    {
+      "id": 246,
+      "university": "장로회신학대",
+      "location": "서울",
+      "imgUrl": "PNG_246.png",
+      "downloadUrlPng": "./img/png/PNG_246.png",
+      "downloadUrlSvg": "./img/svg/SVG_246.svg",
+      "brandColor": "#243f6e"
+    },
+    {
+      "id": 247,
+      "university": "장안대학",
+      "location": "서울",
+      "imgUrl": "PNG_247.png",
+      "downloadUrlPng": "./img/png/PNG_247.png",
+      "downloadUrlSvg": "./img/svg/SVG_247.svg",
+      "brandColor": "#00a5e3"
+    },
+    {
+      "id": 248,
+      "university": "전남과학대학",
+      "location": "서울",
+      "imgUrl": "PNG_248.png",
+      "downloadUrlPng": "./img/png/PNG_248.png",
+      "downloadUrlSvg": "./img/svg/SVG_248.svg",
+      "brandColor": "#004098"
+    },
+    {
+      "id": 249,
+      "university": "전남대",
+      "location": "서울",
+      "imgUrl": "PNG_249.png",
+      "downloadUrlPng": "./img/png/PNG_249.png",
+      "downloadUrlSvg": "./img/svg/SVG_249.svg",
+      "brandColor": "#009140"
+    },
+    {
+      "id": 250,
+      "university": "전남도립대학",
+      "location": "서울",
+      "imgUrl": "PNG_250.png",
+      "downloadUrlPng": "./img/png/PNG_250.png",
+      "downloadUrlSvg": "./img/svg/SVG_250.svg",
+      "brandColor": "#004098"
+    },
+    {
+      "id": 251,
+      "university": "전북과학대학",
+      "location": "서울",
+      "imgUrl": "PNG_251.png",
+      "downloadUrlPng": "./img/png/PNG_251.png",
+      "downloadUrlSvg": "./img/svg/SVG_251.svg",
+      "brandColor": "#1362ad"
+    },
+    {
+      "id": 252,
+      "university": "전북대",
+      "location": "서울",
+      "imgUrl": "PNG_252.png",
+      "downloadUrlPng": "./img/png/PNG_252.png",
+      "downloadUrlSvg": "./img/svg/SVG_252.svg",
+      "brandColor": "#A61D60"
+    },
+    {
+      "id": 253,
+      "university": "전주교대",
+      "location": "서울",
+      "imgUrl": "PNG_253.png",
+      "downloadUrlPng": "./img/png/PNG_253.png",
+      "downloadUrlSvg": "./img/svg/SVG_253.svg",
+      "brandColor": "#7FC31C"
+    },
+    {
+      "id": 254,
+      "university": "전주기전대학",
+      "location": "서울",
+      "imgUrl": "PNG_254.png",
+      "downloadUrlPng": "./img/png/PNG_254.png",
+      "downloadUrlSvg": "./img/svg/SVG_254.svg",
+      "brandColor": "#2C77BC"
+    },
+    {
+      "id": 255,
+      "university": "전주대",
+      "location": "서울",
+      "imgUrl": "PNG_255.png",
+      "downloadUrlPng": "./img/png/PNG_255.png",
+      "downloadUrlSvg": "./img/svg/SVG_255.svg",
+      "brandColor": "#007EBE"
+    },
+    {
+      "id": 256,
+      "university": "전주비전대학",
+      "location": "서울",
+      "imgUrl": "PNG_256.png",
+      "downloadUrlPng": "./img/png/PNG_256.png",
+      "downloadUrlSvg": "./img/svg/SVG_256.svg",
+      "brandColor": "#E74E0F"
+    },
+    {
+      "id": 257,
+      "university": "제주관광대학",
+      "location": "서울",
+      "imgUrl": "PNG_257.png",
+      "downloadUrlPng": "./img/png/PNG_257.png",
+      "downloadUrlSvg": "./img/svg/SVG_257.svg",
+      "brandColor": "#05A0DC"
+    },
+    {
+      "id": 258,
+      "university": "제주국제대",
+      "location": "서울",
+      "imgUrl": "PNG_258.png",
+      "downloadUrlPng": "./img/png/PNG_258.png",
+      "downloadUrlSvg": "./img/svg/SVG_258.svg",
+      "brandColor": "#0091BF"
+    },
+    {
+      "id": 259,
+      "university": "제주대",
+      "location": "서울",
+      "imgUrl": "PNG_259.png",
+      "downloadUrlPng": "./img/png/PNG_259.png",
+      "downloadUrlSvg": "./img/svg/SVG_259.svg",
+      "brandColor": "#004098"
+    },
+    {
+      "id": 260,
+      "university": "제주한라대학",
+      "location": "서울",
+      "imgUrl": "PNG_260.png",
+      "downloadUrlPng": "./img/png/PNG_260.png",
+      "downloadUrlSvg": "./img/svg/SVG_260.svg",
+      "brandColor": "#1A3C7F"
+    },
+    {
+      "id": 261,
+      "university": "조선간호대학",
+      "location": "서울",
+      "imgUrl": "PNG_261.png",
+      "downloadUrlPng": "./img/png/PNG_261.png",
+      "downloadUrlSvg": "./img/svg/SVG_261.svg",
+      "brandColor": "#bacdea"
+    },
+    {
+      "id": 262,
+      "university": "조선대",
+      "location": "서울",
+      "imgUrl": "PNG_262.png",
+      "downloadUrlPng": "./img/png/PNG_262.png",
+      "downloadUrlSvg": "./img/svg/SVG_262.svg",
+      "brandColor": "#0054A7"
+    },
+    {
+      "id": 263,
+      "university": "조선이공대학",
+      "location": "서울",
+      "imgUrl": "PNG_263.png",
+      "downloadUrlPng": "./img/png/PNG_263.png",
+      "downloadUrlSvg": "./img/svg/SVG_263.svg",
+      "brandColor": "#009596"
+    },
+    {
+      "id": 264,
+      "university": "중부대",
+      "location": "서울",
+      "imgUrl": "PNG_264.png",
+      "downloadUrlPng": "./img/png/PNG_264.png",
+      "downloadUrlSvg": "./img/svg/SVG_264.svg",
+      "brandColor": "#9D1D2B"
+    },
+    {
+      "id": 265,
+      "university": "중앙대",
+      "location": "서울",
+      "imgUrl": "PNG_265.png",
+      "downloadUrlPng": "./img/png/PNG_265.png",
+      "downloadUrlSvg": "./img/svg/SVG_265.svg",
+      "brandColor": "#006DB5"
+    },
+    {
+      "id": 266,
+      "university": "중앙승가대",
+      "location": "서울",
+      "imgUrl": "PNG_266.png",
+      "downloadUrlPng": "./img/png/PNG_266.png",
+      "downloadUrlSvg": "./img/svg/SVG_266.svg",
+      "brandColor": "#ffb516"
+    },
+    {
+      "id": 267,
+      "university": "중원대",
+      "location": "서울",
+      "imgUrl": "PNG_267.png",
+      "downloadUrlPng": "./img/png/PNG_267.png",
+      "downloadUrlSvg": "./img/svg/SVG_267.svg",
+      "brandColor": "#003366"
+    },
+    {
+      "id": 268,
+      "university": "진주교대",
+      "location": "서울",
+      "imgUrl": "PNG_268.png",
+      "downloadUrlPng": "./img/png/PNG_268.png",
+      "downloadUrlSvg": "./img/svg/SVG_268.svg",
+      "brandColor": "#EE7800"
+    },
+    {
+      "id": 269,
+      "university": "진주보건대학",
+      "location": "서울",
+      "imgUrl": "PNG_269.png",
+      "downloadUrlPng": "./img/png/PNG_269.png",
+      "downloadUrlSvg": "./img/svg/SVG_269.svg",
+      "brandColor": "#00734D"
+    },
+    {
+      "id": 270,
+      "university": "차의과학대",
+      "location": "서울",
+      "imgUrl": "PNG_270.png",
+      "downloadUrlPng": "./img/png/PNG_270.png",
+      "downloadUrlSvg": "./img/svg/SVG_270.svg",
+      "brandColor": "#0d4167"
+    },
+    {
+      "id": 271,
+      "university": "창신대",
+      "location": "서울",
+      "imgUrl": "PNG_271.png",
+      "downloadUrlPng": "./img/png/PNG_271.png",
+      "downloadUrlSvg": "./img/svg/SVG_271.svg",
+      "brandColor": "#004098"
+    },
+    {
+      "id": 272,
+      "university": "창원대",
+      "location": "서울",
+      "imgUrl": "PNG_272.png",
+      "downloadUrlPng": "./img/png/PNG_272.png",
+      "downloadUrlSvg": "./img/svg/SVG_272.svg",
+      "brandColor": "#004E97"
+    },
+    {
+      "id": 273,
+      "university": "창원문성대학",
+      "location": "서울",
+      "imgUrl": "PNG_273.png",
+      "downloadUrlPng": "./img/png/PNG_273.png",
+      "downloadUrlSvg": "./img/svg/SVG_273.svg",
+      "brandColor": "#234871"
+    },
+    {
+      "id": 274,
+      "university": "천안연암대학",
+      "location": "서울",
+      "imgUrl": "PNG_274.png",
+      "downloadUrlPng": "./img/png/PNG_274.png",
+      "downloadUrlSvg": "./img/svg/SVG_274.svg",
+      "brandColor": "#b6002d"
+    },
+    {
+      "id": 275,
+      "university": "청강문화산업대학",
+      "location": "서울",
+      "imgUrl": "PNG_275.png",
+      "downloadUrlPng": "./img/png/PNG_275.png",
+      "downloadUrlSvg": "./img/svg/SVG_275.svg",
+      "brandColor": "#EE7300"
+    },
+    {
+      "id": 276,
+      "university": "청암대학",
+      "location": "서울",
+      "imgUrl": "PNG_276.png",
+      "downloadUrlPng": "./img/png/PNG_276.png",
+      "downloadUrlSvg": "./img/svg/SVG_276.svg",
+      "brandColor": "#1CC2E8"
+    },
+    {
+      "id": 277,
+      "university": "청운대",
+      "location": "서울",
+      "imgUrl": "PNG_277.png",
+      "downloadUrlPng": "./img/png/PNG_277.png",
+      "downloadUrlSvg": "./img/svg/SVG_277.svg",
+      "brandColor": "#004EA2"
+    },
+    {
+      "id": 278,
+      "university": "청주교대",
+      "location": "서울",
+      "imgUrl": "PNG_278.png",
+      "downloadUrlPng": "./img/png/PNG_278.png",
+      "downloadUrlSvg": "./img/svg/SVG_278.svg",
+      "brandColor": "#0081B2"
+    },
+    {
+      "id": 279,
+      "university": "청주대",
+      "location": "서울",
+      "imgUrl": "PNG_279.png",
+      "downloadUrlPng": "./img/png/PNG_279.png",
+      "downloadUrlSvg": "./img/svg/SVG_279.svg",
+      "brandColor": "#00479D"
+    },
+    {
+      "id": 280,
+      "university": "초당대",
+      "location": "서울",
+      "imgUrl": "PNG_280.png",
+      "downloadUrlPng": "./img/png/PNG_280.png",
+      "downloadUrlSvg": "./img/svg/SVG_280.svg",
+      "brandColor": "#A89B91"
+    },
+    {
+      "id": 281,
+      "university": "총신대",
+      "location": "서울",
+      "imgUrl": "PNG_281.png",
+      "downloadUrlPng": "./img/png/PNG_281.png",
+      "downloadUrlSvg": "./img/svg/SVG_281.svg",
+      "brandColor": "#1C3C67"
+    },
+    {
+      "id": 282,
+      "university": "추계예술대",
+      "location": "서울",
+      "imgUrl": "PNG_282.png",
+      "downloadUrlPng": "./img/png/PNG_282.png",
+      "downloadUrlSvg": "./img/svg/SVG_282.svg",
+      "brandColor": "#f04e23"
+    },
+    {
+      "id": 283,
+      "university": "춘천교대",
+      "location": "서울",
+      "imgUrl": "PNG_283.png",
+      "downloadUrlPng": "./img/png/PNG_283.png",
+      "downloadUrlSvg": "./img/svg/SVG_283.svg",
+      "brandColor": "#016db5"
+    },
+    {
+      "id": 284,
+      "university": "춘해보건대학",
+      "location": "서울",
+      "imgUrl": "PNG_284.png",
+      "downloadUrlPng": "./img/png/PNG_284.png",
+      "downloadUrlSvg": "./img/svg/SVG_284.svg",
+      "brandColor": "#004EA2"
+    },
+    {
+      "id": 285,
+      "university": "충남대",
+      "location": "서울",
+      "imgUrl": "PNG_285.png",
+      "downloadUrlPng": "./img/png/PNG_285.png",
+      "downloadUrlSvg": "./img/svg/SVG_285.svg",
+      "brandColor": "#004098"
+    },
+    {
+      "id": 286,
+      "university": "충남도립청양대학",
+      "location": "서울",
+      "imgUrl": "PNG_286.png",
+      "downloadUrlPng": "./img/png/PNG_286.png",
+      "downloadUrlSvg": "./img/svg/SVG_286.svg",
+      "brandColor": "#1E0D67"
+    },
+    {
+      "id": 287,
+      "university": "충북대",
+      "location": "서울",
+      "imgUrl": "PNG_287.png",
+      "downloadUrlPng": "./img/png/PNG_287.png",
+      "downloadUrlSvg": "./img/svg/SVG_287.svg",
+      "brandColor": "#992A47"
+    },
+    {
+      "id": 288,
+      "university": "충북도립대학",
+      "location": "서울",
+      "imgUrl": "PNG_288.png",
+      "downloadUrlPng": "./img/png/PNG_288.png",
+      "downloadUrlSvg": "./img/svg/SVG_288.svg",
+      "brandColor": "#0054A7"
+    },
+    {
+      "id": 289,
+      "university": "충북보건과학대학",
+      "location": "서울",
+      "imgUrl": "PNG_289.png",
+      "downloadUrlPng": "./img/png/PNG_289.png",
+      "downloadUrlSvg": "./img/svg/SVG_289.svg",
+      "brandColor": "#A7AF38"
+    },
+    {
+      "id": 290,
+      "university": "충청대학",
+      "location": "서울",
+      "imgUrl": "PNG_290.png",
+      "downloadUrlPng": "./img/png/PNG_290.png",
+      "downloadUrlSvg": "./img/svg/SVG_290.svg",
+      "brandColor": "#013C34"
+    },
+    {
+      "id": 291,
+      "university": "침례신학대",
+      "location": "서울",
+      "imgUrl": "PNG_291.png",
+      "downloadUrlPng": "./img/png/PNG_291.png",
+      "downloadUrlSvg": "./img/svg/SVG_291.svg",
+      "brandColor": "#1D2088"
+    },
+    {
+      "id": 292,
+      "university": "칼빈대",
+      "location": "서울",
+      "imgUrl": "PNG_292.png",
+      "downloadUrlPng": "./img/png/PNG_292.png",
+      "downloadUrlSvg": "./img/svg/SVG_292.svg",
+      "brandColor": "#394285"
+    },
+    {
+      "id": 293,
+      "university": "평택대",
+      "location": "서울",
+      "imgUrl": "PNG_293.png",
+      "downloadUrlPng": "./img/png/PNG_293.png",
+      "downloadUrlSvg": "./img/svg/SVG_293.svg",
+      "brandColor": "#006939"
+    },
+    {
+      "id": 294,
+      "university": "포항공과대",
+      "location": "서울",
+      "imgUrl": "PNG_294.png",
+      "downloadUrlPng": "./img/png/PNG_294.png",
+      "downloadUrlSvg": "./img/svg/SVG_294.svg",
+      "brandColor": "#C9005F"
+    },
+    {
+      "id": 295,
+      "university": "포항대학",
+      "location": "서울",
+      "imgUrl": "PNG_295.png",
+      "downloadUrlPng": "./img/png/PNG_295.png",
+      "downloadUrlSvg": "./img/svg/SVG_295.svg",
+      "brandColor": "#004098"
+    },
+    {
+      "id": 296,
+      "university": "한경대",
+      "location": "서울",
+      "imgUrl": "PNG_296.png",
+      "downloadUrlPng": "./img/png/PNG_296.png",
+      "downloadUrlSvg": "./img/svg/SVG_296.svg",
+      "brandColor": "#004F99"
+    },
+    {
+      "id": 297,
+      "university": "한국골프대학",
+      "location": "서울",
+      "imgUrl": "PNG_297.png",
+      "downloadUrlPng": "./img/png/PNG_297.png",
+      "downloadUrlSvg": "./img/svg/SVG_297.svg",
+      "brandColor": "#95459a"
+    },
+    {
+      "id": 298,
+      "university": "한국과학기술원",
+      "location": "서울",
+      "imgUrl": "PNG_298.png",
+      "downloadUrlPng": "./img/png/PNG_298.png",
+      "downloadUrlSvg": "./img/svg/SVG_298.svg",
+      "brandColor": "#004294"
+    },
+    {
+      "id": 299,
+      "university": "한국관광대학",
+      "location": "서울",
+      "imgUrl": "PNG_299.png",
+      "downloadUrlPng": "./img/png/PNG_299.png",
+      "downloadUrlSvg": "./img/svg/SVG_299.svg",
+      "brandColor": "#023894"
+    },
+    {
+      "id": 300,
+      "university": "한국교원대",
+      "location": "서울",
+      "imgUrl": "PNG_300.png",
+      "downloadUrlPng": "./img/png/PNG_300.png",
+      "downloadUrlSvg": "./img/svg/SVG_300.svg",
+      "brandColor": "#0090D5"
+    },
+    {
+      "id": 301,
+      "university": "한국교통대",
+      "location": "서울",
+      "imgUrl": "PNG_301.png",
+      "downloadUrlPng": "./img/png/PNG_301.png",
+      "downloadUrlSvg": "./img/svg/SVG_301.svg",
+      "brandColor": "#6f1f20"
+    },
+    {
+      "id": 302,
+      "university": "한국국제대",
+      "location": "서울",
+      "imgUrl": "PNG_302.png",
+      "downloadUrlPng": "./img/png/PNG_302.png",
+      "downloadUrlSvg": "./img/svg/SVG_302.svg",
+      "brandColor": "#172A88"
+    },
+    {
+      "id": 303,
+      "university": "한국기술교대",
+      "location": "서울",
+      "imgUrl": "PNG_303.png",
+      "downloadUrlPng": "./img/png/PNG_303.png",
+      "downloadUrlSvg": "./img/svg/SVG_303.svg",
+      "brandColor": "#EB6100"
+    },
+    {
+      "id": 304,
+      "university": "한국뉴욕주립대",
+      "location": "서울",
+      "imgUrl": "PNG_304.png",
+      "downloadUrlPng": "./img/png/PNG_304.png",
+      "downloadUrlSvg": "./img/svg/SVG_304.svg",
+      "brandColor": "#135191"
+    },
+    {
+      "id": 305,
+      "university": "한국복지대학",
+      "location": "서울",
+      "imgUrl": "PNG_305.png",
+      "downloadUrlPng": "./img/png/PNG_305.png",
+      "downloadUrlSvg": "./img/svg/SVG_305.svg",
+      "brandColor": "#9c9f2c"
+    },
+    {
+      "id": 306,
+      "university": "한국산업기술대",
+      "location": "서울",
+      "imgUrl": "PNG_306.png",
+      "downloadUrlPng": "./img/png/PNG_306.png",
+      "downloadUrlSvg": "./img/svg/SVG_306.svg",
+      "brandColor": "#0082CB"
+    },
+    {
+      "id": 307,
+      "university": "한국성서대",
+      "location": "서울",
+      "imgUrl": "PNG_307.png",
+      "downloadUrlPng": "./img/png/PNG_307.png",
+      "downloadUrlSvg": "./img/svg/SVG_307.svg",
+      "brandColor": "#026c24"
+    },
+    {
+      "id": 308,
+      "university": "한국승강기대학",
+      "location": "서울",
+      "imgUrl": "PNG_308.png",
+      "downloadUrlPng": "./img/png/PNG_308.png",
+      "downloadUrlSvg": "./img/svg/SVG_308.svg",
+      "brandColor": "#0072bc"
+    },
+    {
+      "id": 309,
+      "university": "한국영상대학",
+      "location": "서울",
+      "imgUrl": "PNG_309.png",
+      "downloadUrlPng": "./img/png/PNG_309.png",
+      "downloadUrlSvg": "./img/svg/SVG_309.svg",
+      "brandColor": "#DA005C"
+    },
+    {
+      "id": 310,
+      "university": "한국외대",
+      "location": "서울",
+      "imgUrl": "PNG_310.png",
+      "downloadUrlPng": "./img/png/PNG_310.png",
+      "downloadUrlSvg": "./img/svg/SVG_310.svg",
+      "brandColor": "#008395"
+    },
+    {
+      "id": 311,
+      "university": "한국체육대",
+      "location": "서울",
+      "imgUrl": "PNG_311.png",
+      "downloadUrlPng": "./img/png/PNG_311.png",
+      "downloadUrlSvg": "./img/svg/SVG_311.svg",
+      "brandColor": "#A9002E"
+    },
+    {
+      "id": 312,
+      "university": "한국항공대",
+      "location": "서울",
+      "imgUrl": "PNG_312.png",
+      "downloadUrlPng": "./img/png/PNG_312.png",
+      "downloadUrlSvg": "./img/svg/SVG_312.svg",
+      "brandColor": "#312a7d"
+    },
+    {
+      "id": 313,
+      "university": "한국해양대",
+      "location": "서울",
+      "imgUrl": "PNG_313.png",
+      "downloadUrlPng": "./img/png/PNG_313.png",
+      "downloadUrlSvg": "./img/svg/SVG_313.svg",
+      "brandColor": "#1e298c"
+    },
+    {
+      "id": 314,
+      "university": "한남대",
+      "location": "서울",
+      "imgUrl": "PNG_314.png",
+      "downloadUrlPng": "./img/png/PNG_314.png",
+      "downloadUrlSvg": "./img/svg/SVG_314.svg",
+      "brandColor": "#af2f4d"
+    },
+    {
+      "id": 315,
+      "university": "한동대",
+      "location": "서울",
+      "imgUrl": "PNG_315.png",
+      "downloadUrlPng": "./img/png/PNG_315.png",
+      "downloadUrlSvg": "./img/svg/SVG_315.svg",
+      "brandColor": "#00579b"
+    },
+    {
+      "id": 316,
+      "university": "한라대",
+      "location": "서울",
+      "imgUrl": "PNG_316.png",
+      "downloadUrlPng": "./img/png/PNG_316.png",
+      "downloadUrlSvg": "./img/svg/SVG_316.svg",
+      "brandColor": "#29246D"
+    },
+    {
+      "id": 317,
+      "university": "한려대",
+      "location": "서울",
+      "imgUrl": "PNG_317.png",
+      "downloadUrlPng": "./img/png/PNG_317.png",
+      "downloadUrlSvg": "./img/svg/SVG_317.svg",
+      "brandColor": "#2e3192"
+    },
+    {
+      "id": 318,
+      "university": "한림대",
+      "location": "서울",
+      "imgUrl": "PNG_318.png",
+      "downloadUrlPng": "./img/png/PNG_318.png",
+      "downloadUrlSvg": "./img/svg/SVG_318.svg",
+      "brandColor": "#005BAC"
+    },
+    {
+      "id": 319,
+      "university": "한림성심대학",
+      "location": "서울",
+      "imgUrl": "PNG_319.png",
+      "downloadUrlPng": "./img/png/PNG_319.png",
+      "downloadUrlSvg": "./img/svg/SVG_319.svg",
+      "brandColor": "#005BAC"
+    },
+    {
+      "id": 320,
+      "university": "한밭대",
+      "location": "서울",
+      "imgUrl": "PNG_320.png",
+      "downloadUrlPng": "./img/png/PNG_320.png",
+      "downloadUrlSvg": "./img/svg/SVG_320.svg",
+      "brandColor": "#345080"
+    },
+    {
+      "id": 321,
+      "university": "한서대",
+      "location": "서울",
+      "imgUrl": "PNG_321.png",
+      "downloadUrlPng": "./img/png/PNG_321.png",
+      "downloadUrlSvg": "./img/svg/SVG_321.svg",
+      "brandColor": "#00633D"
+    },
+    {
+      "id": 322,
+      "university": "한성대",
+      "location": "서울",
+      "imgUrl": "PNG_322.png",
+      "downloadUrlPng": "./img/png/PNG_322.png",
+      "downloadUrlSvg": "./img/svg/SVG_322.svg",
+      "brandColor": "#004098"
+    },
+    {
+      "id": 323,
+      "university": "한세대",
+      "location": "서울",
+      "imgUrl": "PNG_323.png",
+      "downloadUrlPng": "./img/png/PNG_323.png",
+      "downloadUrlSvg": "./img/svg/SVG_323.svg",
+      "brandColor": "#00437C"
+    },
+    {
+      "id": 324,
+      "university": "한신대",
+      "location": "서울",
+      "imgUrl": "PNG_324.png",
+      "downloadUrlPng": "./img/png/PNG_324.png",
+      "downloadUrlSvg": "./img/svg/SVG_324.svg",
+      "brandColor": "#3B1E87"
+    },
+    {
+      "id": 325,
+      "university": "한양대",
+      "location": "서울",
+      "imgUrl": "PNG_325.png",
+      "downloadUrlPng": "./img/png/PNG_325.png",
+      "downloadUrlSvg": "./img/svg/SVG_325.svg",
+      "brandColor": "#003B71"
+    },
+    {
+      "id": 326,
+      "university": "한양여자대학",
+      "location": "서울",
+      "imgUrl": "PNG_326.png",
+      "downloadUrlPng": "./img/png/PNG_326.png",
+      "downloadUrlSvg": "./img/svg/SVG_326.svg",
+      "brandColor": "#003B71"
+    },
+    {
+      "id": 327,
+      "university": "한영대학",
+      "location": "서울",
+      "imgUrl": "PNG_327.png",
+      "downloadUrlPng": "./img/png/PNG_327.png",
+      "downloadUrlSvg": "./img/svg/SVG_327.svg",
+      "brandColor": "#004792"
+    },
+    {
+      "id": 328,
+      "university": "한영신학대",
+      "location": "서울",
+      "imgUrl": "PNG_328.png",
+      "downloadUrlPng": "./img/png/PNG_328.png",
+      "downloadUrlSvg": "./img/svg/SVG_328.svg",
+      "brandColor": "#174d96"
+    },
+    {
+      "id": 329,
+      "university": "한일장신대",
+      "location": "서울",
+      "imgUrl": "PNG_329.png",
+      "downloadUrlPng": "./img/png/PNG_329.png",
+      "downloadUrlSvg": "./img/svg/SVG_329.svg",
+      "brandColor": "#003B90"
+    },
+    {
+      "id": 330,
+      "university": "한중대",
+      "location": "서울",
+      "imgUrl": "PNG_330.png",
+      "downloadUrlPng": "./img/png/PNG_330.png",
+      "downloadUrlSvg": "./img/svg/SVG_330.svg",
+      "brandColor": "#E31B13"
+    },
+    {
+      "id": 331,
+      "university": "해군사관학교",
+      "location": "서울",
+      "imgUrl": "PNG_331.png",
+      "downloadUrlPng": "./img/png/PNG_331.png",
+      "downloadUrlSvg": "./img/svg/SVG_331.svg",
+      "brandColor": "#182689"
+    },
+    {
+      "id": 332,
+      "university": "협성대",
+      "location": "서울",
+      "imgUrl": "PNG_332.png",
+      "downloadUrlPng": "./img/png/PNG_332.png",
+      "downloadUrlSvg": "./img/svg/SVG_332.svg",
+      "brandColor": "#F6AC19"
+    },
+    {
+      "id": 333,
+      "university": "혜전대학",
+      "location": "서울",
+      "imgUrl": "PNG_333.png",
+      "downloadUrlPng": "./img/png/PNG_333.png",
+      "downloadUrlSvg": "./img/svg/SVG_333.svg",
+      "brandColor": "#15579E"
+    },
+    {
+      "id": 334,
+      "university": "혜천대학",
+      "location": "서울",
+      "imgUrl": "PNG_334.png",
+      "downloadUrlPng": "./img/png/PNG_334.png",
+      "downloadUrlSvg": "./img/svg/SVG_334.svg",
+      "brandColor": "#171C61"
+    },
+    {
+      "id": 335,
+      "university": "호남대",
+      "location": "서울",
+      "imgUrl": "PNG_335.png",
+      "downloadUrlPng": "./img/png/PNG_335.png",
+      "downloadUrlSvg": "./img/svg/SVG_335.svg",
+      "brandColor": "#00688D"
+    },
+    {
+      "id": 336,
+      "university": "호남대(쌍촌)",
+      "location": "서울",
+      "imgUrl": "PNG_336.png",
+      "downloadUrlPng": "./img/png/PNG_336.png",
+      "downloadUrlSvg": "./img/svg/SVG_336.svg",
+      "brandColor": "#00688D"
+    },
+    {
+      "id": 337,
+      "university": "호남신학대",
+      "location": "서울",
+      "imgUrl": "PNG_337.png",
+      "downloadUrlPng": "./img/png/PNG_337.png",
+      "downloadUrlSvg": "./img/svg/SVG_337.svg",
+      "brandColor": "#094d97"
+    },
+    {
+      "id": 338,
+      "university": "호산대",
+      "location": "서울",
+      "imgUrl": "PNG_338.png",
+      "downloadUrlPng": "./img/png/PNG_338.png",
+      "downloadUrlSvg": "./img/svg/SVG_338.svg",
+      "brandColor": "#AE0023"
+    },
+    {
+      "id": 339,
+      "university": "호서대",
+      "location": "서울",
+      "imgUrl": "PNG_339.png",
+      "downloadUrlPng": "./img/png/PNG_339.png",
+      "downloadUrlSvg": "./img/svg/SVG_339.svg",
+      "brandColor": "#00A2AC"
+    },
+    {
+      "id": 340,
+      "university": "호원대",
+      "location": "서울",
+      "imgUrl": "PNG_340.png",
+      "downloadUrlPng": "./img/png/PNG_340.png",
+      "downloadUrlSvg": "./img/svg/SVG_340.svg",
+      "brandColor": "#1D5632"
+    },
+    {
+      "id": 341,
+      "university": "홍익대",
+      "location": "서울",
+      "imgUrl": "PNG_341.png",
+      "downloadUrlPng": "./img/png/PNG_341.png",
+      "downloadUrlSvg": "./img/svg/SVG_341.svg",
+      "brandColor": "#002965"
+    },
+    {
+      "id": 342,
+      "university": "건양사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_342.png",
+      "downloadUrlPng": "./img/png/PNG_342.png",
+      "downloadUrlSvg": "./img/svg/SVG_342.svg",
+      "brandColor": "#002965"
+    },
+    {
+      "id": 343,
+      "university": "경희사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_343.png",
+      "downloadUrlPng": "./img/png/PNG_343.png",
+      "downloadUrlSvg": "./img/svg/SVG_343.svg",
+      "brandColor": "#00683D"
+    },
+    {
+      "id": 344,
+      "university": "고려사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_344.png",
+      "downloadUrlPng": "./img/png/PNG_344.png",
+      "downloadUrlSvg": "./img/svg/SVG_344.svg",
+      "brandColor": "#A1000B"
+    },
+    {
+      "id": 345,
+      "university": "국제사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_345.png",
+      "downloadUrlPng": "./img/png/PNG_345.png",
+      "downloadUrlSvg": "./img/svg/SVG_345.svg",
+      "brandColor": "#7D0011"
+    },
+    {
+      "id": 346,
+      "university": "글로벌사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_346.png",
+      "downloadUrlPng": "./img/png/PNG_346.png",
+      "downloadUrlSvg": "./img/svg/SVG_346.svg",
+      "brandColor": "#009A43"
+    },
+    {
+      "id": 347,
+      "university": "대구사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_347.png",
+      "downloadUrlPng": "./img/png/PNG_347.png",
+      "downloadUrlSvg": "./img/svg/SVG_347.svg",
+      "brandColor": "#0B318F"
+    },
+    {
+      "id": 348,
+      "university": "디지털서울문화예술대학",
+      "location": "서울",
+      "imgUrl": "PNG_348.png",
+      "downloadUrlPng": "./img/png/PNG_348.png",
+      "downloadUrlSvg": "./img/svg/SVG_348.svg",
+      "brandColor": "#00806E"
+    },
+    {
+      "id": 349,
+      "university": "부산디지털대학",
+      "location": "서울",
+      "imgUrl": "PNG_349.png",
+      "downloadUrlPng": "./img/png/PNG_349.png",
+      "downloadUrlSvg": "./img/svg/SVG_349.svg",
+      "brandColor": "#0B318F"
+    },
+    {
+      "id": 350,
+      "university": "사이버한국외국어대학",
+      "location": "서울",
+      "imgUrl": "PNG_350.png",
+      "downloadUrlPng": "./img/png/PNG_350.png",
+      "downloadUrlSvg": "./img/svg/SVG_350.svg",
+      "brandColor": "#194A8F"
+    },
+    {
+      "id": 351,
+      "university": "서울디지털대학",
+      "location": "서울",
+      "imgUrl": "PNG_351.png",
+      "downloadUrlPng": "./img/png/PNG_351.png",
+      "downloadUrlSvg": "./img/svg/SVG_351.svg",
+      "brandColor": "#008195"
+    },
+    {
+      "id": 352,
+      "university": "서울사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_352.png",
+      "downloadUrlPng": "./img/png/PNG_352.png",
+      "downloadUrlSvg": "./img/svg/SVG_352.svg",
+      "brandColor": "#005C97"
+    },
+    {
+      "id": 353,
+      "university": "세종사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_353.png",
+      "downloadUrlPng": "./img/png/PNG_353.png",
+      "downloadUrlSvg": "./img/svg/SVG_353.svg",
+      "brandColor": "#339933"
+    },
+    {
+      "id": 354,
+      "university": "숭실사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_354.png",
+      "downloadUrlPng": "./img/png/PNG_354.png",
+      "downloadUrlSvg": "./img/svg/SVG_354.svg",
+      "brandColor": "#CC0033"
+    },
+    {
+      "id": 355,
+      "university": "열린사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_355.png",
+      "downloadUrlPng": "./img/png/PNG_355.png",
+      "downloadUrlSvg": "./img/svg/SVG_355.svg",
+      "brandColor": "#66CCCC"
+    },
+    {
+      "id": 356,
+      "university": "원광디지털대학",
+      "location": "서울",
+      "imgUrl": "PNG_356.png",
+      "downloadUrlPng": "./img/png/PNG_356.png",
+      "downloadUrlSvg": "./img/svg/SVG_356.svg",
+      "brandColor": "#336699"
+    },
+    {
+      "id": 357,
+      "university": "한양사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_357.png",
+      "downloadUrlPng": "./img/png/PNG_357.png",
+      "downloadUrlSvg": "./img/svg/SVG_357.svg",
+      "brandColor": "#003399"
+    },
+    {
+      "id": 358,
+      "university": "화신사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_358.png",
+      "downloadUrlPng": "./img/png/PNG_358.png",
+      "downloadUrlSvg": "./img/svg/SVG_358.svg",
+      "brandColor": "#0099FF"
+    },
+    {
+      "id": 359,
+      "university": "영진사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_359.png",
+      "downloadUrlPng": "./img/png/PNG_359.png",
+      "downloadUrlSvg": "./img/svg/SVG_359.svg",
+      "brandColor": "#FF9933"
+    },
+    {
+      "id": 360,
+      "university": "한국복지사이버대학",
+      "location": "서울",
+      "imgUrl": "PNG_360.png",
+      "downloadUrlPng": "./img/png/PNG_360.png",
+      "downloadUrlSvg": "./img/svg/SVG_360.svg",
+      "brandColor": "#006699"
+    },
+    {
+      "id": 361,
+      "university": "한국폴리텍대학",
+      "location": "서울",
+      "imgUrl": "PNG_361.png",
+      "downloadUrlPng": "./img/png/PNG_361.png",
+      "downloadUrlSvg": "./img/svg/SVG_361.svg",
+      "brandColor": "#000066"
+    },
+    {
+      "id": 362,
+      "university": "한국예술종합학교",
+      "location": "서울",
+      "imgUrl": "PNG_362.png",
+      "downloadUrlPng": "./img/png/PNG_362.png",
+      "downloadUrlSvg": "./img/svg/SVG_362.svg",
+      "brandColor": "#006699"
+    },
+    {
+      "id": 363,
+      "university": "서울호서직업전문학교",
+      "location": "서울",
+      "imgUrl": "PNG_363.png",
+      "downloadUrlPng": "./img/png/PNG_363.png",
+      "downloadUrlSvg": "./img/svg/SVG_363.svg",
+      "brandColor": "#FF0033"
+    },
+    {
+      "id": 364,
+      "university": "한국방송통신대학교",
+      "location": "서울",
+      "imgUrl": "PNG_364.png",
+      "downloadUrlPng": "./img/png/PNG_364.png",
+      "downloadUrlSvg": "./img/svg/SVG_364.svg",
+      "brandColor": "#336699"
+    },
+    {
+      "id": 365,
+      "university": "한국IT전문학교",
+      "location": "서울",
+      "imgUrl": "PNG_365.png",
+      "downloadUrlPng": "./img/png/PNG_365.png",
+      "downloadUrlSvg": "./img/svg/SVG_365.svg",
+      "brandColor": "#0066CC"
+    }
+  ]
+}
