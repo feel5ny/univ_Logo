@@ -6,8 +6,8 @@ import {
   Header,
   Icon,
 } from 'semantic-ui-react'
-import logo1 from '../../assets/PNG_1.png'
-import logo2 from '../../assets/PNG_2.png'
+import logo1 from '../assets/PNG_1.png'
+import logo2 from '../assets/PNG_2.png'
 
 const footer = {
   position: 'fixed',
