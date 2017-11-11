@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import Header from '../components/Header'
 import UnivList from '../components/UnivList'
 import Footer from '../components/Footer'
-import { storage } from '../firebase'
+import { storage } from '../../firebase'
 
 const storageRef = storage.ref()
 

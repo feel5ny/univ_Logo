@@ -1,15 +1,11 @@
 import React, { Component } from 'react'
-import {
-  Modal,
-  Button,
-  Image,
-  Header,
-  Popup,
-} from 'semantic-ui-react'
+import { Modal, Button, Image, Header, Popup } from 'semantic-ui-react'
 import { HOSTNAME } from '../config'
 import { CopyToClipboard } from 'react-copy-to-clipboard'
 import { Link } from 'react-router-dom'
 import { DragSource } from 'react-dnd'
+import { database } from '../../firebase'
+import firebase from 'firebase'
 
 // const univs = [
 //   {
@@ -18,7 +14,7 @@ import { DragSource } from 'react-dnd'
 //     image: '',
 //     svgFile: '',
 //     pngFile: '',
-//   },
+//   },]
 
 class UnivItem extends Component {
   constructor(props) {
@@ -29,8 +25,7 @@ class UnivItem extends Component {
     }
   }
   // modal
-  show = dimmer => () =>
-    this.setState({ dimmer, open: true })
+  show = dimmer => () => this.setState({ dimmer, open: true })
   close = () => this.setState({ open: false })
 
   // copytoClipboard
@@ -44,10 +39,7 @@ class UnivItem extends Component {
     return (
       <div className="card">
         <div className="content">
-          <img
-            className="left floated mini ui image"
-            src={this.props.img}
-          />
+          <img className="left floated mini ui image" src={this.props.img} />
           <i className="right floated yellow ui plus icon" />
 
           <Popup
@@ -60,70 +52,41 @@ class UnivItem extends Component {
                 <i
                   className="right floated ui eyedropper icon"
                   style={{
-                    color: `${this.props
-                      .brandColor}`,
+                    color: `${this.props.brandColor}`,
                   }}
                 />
               </CopyToClipboard>
             }
             style={{
-              backgroundColor: `${this.props
-                .brandColor}`,
+              backgroundColor: `${this.props.brandColor}`,
               color: 'white',
             }}
           >
             {this.props.brandColor}
           </Popup>
-          <div className="meta left">
-            {this.props.location}
-          </div>
-          <div className="header">
-            {this.props.university}
-          </div>
+          <div className="meta left">{this.props.location}</div>
+          <div className="header">{this.props.university}</div>
         </div>
         <div className="extra content">
-          <Button
-            onClick={this.show('blurring')}
-            basic
-            color="yellow"
-            fluid
-          >
+          <Button onClick={this.show('blurring')} basic color="yellow" fluid>
             &#9994; 로고 규정 확인하기
           </Button>
 
-          <Modal
-            dimmer={dimmer}
-            open={open}
-            onClose={this.close}
-          >
-            <Modal.Header>
-              {this.props.university}
-            </Modal.Header>
+          <Modal dimmer={dimmer} open={open} onClose={this.close}>
+            <Modal.Header>{this.props.university}</Modal.Header>
             <Modal.Content image>
-              <Image
-                wrapped
-                size="medium"
-                src={this.props.img}
-              />
+              <Image wrapped size="medium" src={this.props.img} />
               <Modal.Description>
-                <Header>
-                  Default Profile Image
-                </Header>
+                <Header>Default Profile Image</Header>
                 <p>
-                  We've found the following
-                  gravatar image associated with
-                  your e-mail address.
+                  We've found the following gravatar image associated with your
+                  e-mail address.
                 </p>
-                <p>
-                  Is it okay to use this photo?
-                </p>
+                <p>Is it okay to use this photo?</p>
               </Modal.Description>
             </Modal.Content>
             <Modal.Actions>
-              <Button
-                color="black"
-                onClick={this.close}
-              >
+              <Button color="black" onClick={this.close}>
                 Nope
               </Button>
               <Button
@@ -168,29 +131,40 @@ class UnivList extends React.Component {
     this.state = {
       isLoading: true,
       errorState: false,
-      univsList: [],
+      univList: [],
     }
   }
 
   componentDidMount = () => {
-    fetch(`${HOSTNAME}/logoLists`)
-      .then(res => res.json())
-      .then(data => {
+    // var userId = firebase.auth().currentUser.uid
+    return firebase
+      .database()
+      .ref('/logoLists')
+      .once('value')
+      .then(snapshot => {
         this.setState({
-          univsList: data,
+          univList: snapshot.val(),
         })
-      })
-      .catch(error => {
-        this.setState({
-          isLoading: false,
-          errorState: true,
-        })
+        console.log(snapshot.val())
       })
   }
+  // fetch(`${HOSTNAME}/logoLists`)
+  //   .then(res => res.json())
+  //   .then(data => {
+  //     this.setState({
+  //       univsList: data,
+  //     })
+  //   })
+  //   .catch(error => {
+  //     this.setState({
+  //       isLoading: false,
+  //       errorState: true,
+  //     })
+  //   })
   render = () => {
     return (
       <div className="ui three link stackable cards">
-        {this.state.univsList.map(univ => {
+        {this.state.univList.map(univ => {
           return (
             <UnivItem
               location={univ.location}
