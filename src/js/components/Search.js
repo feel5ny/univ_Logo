@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Search } from 'semantic-ui-react'
+import { Input } from 'semantic-ui-react'
 import _ from 'lodash'
 import { HOSTNAME } from '../config'
 
@@ -29,40 +29,32 @@ class SearchForm extends Component {
       })
   }
 
-  handleResultSelect = (e, { result }) =>
-    this.setState({ value: result.title })
+  handleResultSelect = (e, { result }) => this.setState({ value: result.title })
 
   handleSearchChange = (e, { value }) => {
     this.setState({ isLoading: true, value })
 
     setTimeout(() => {
-      if (this.state.value.length < 1)
-        return this.resetComponent()
+      if (this.state.value.length < 1) return this.resetComponent()
 
-      const re = new RegExp(
-        _.escapeRegExp(this.state.value),
-        'i',
-      )
-      const isMatch = result =>
-        re.test(result.title)
+      const re = new RegExp(_.escapeRegExp(this.state.value), 'i')
+      const isMatch = result => re.test(result.title)
 
       this.setState({
         isLoading: false,
-        results: _.filter(
-          this.state.univsList,
-          isMatch,
-        ),
+        results: _.filter(this.state.univsList, isMatch),
       })
     }, 500)
   }
   render() {
-    const {
-      isLoading,
-      value,
-      results,
-    } = this.state
+    const { isLoading, value, results } = this.state
     return (
-      <Search
+      <Input
+        style={{
+          width: '300px',
+          margin: '42px',
+        }}
+        placeholder="학교 이름을 검색하세요"
         loading={isLoading}
         onResultSelect={this.handleResultSelect}
         onSearchChange={this.handleSearchChange}

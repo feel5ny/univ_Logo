@@ -12,4 +12,4 @@ const config = {
 firebase.initializeApp(config)
 
 export const database = firebase.database()
-export const storage = firebase.storage()
+export const storage = firebase.app().storage('gs://univ-logo.appspot.com')

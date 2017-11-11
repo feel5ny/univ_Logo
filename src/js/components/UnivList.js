@@ -6,6 +6,8 @@ import { Link } from 'react-router-dom'
 import { DragSource } from 'react-dnd'
 import { database } from '../../firebase'
 import firebase from 'firebase'
+import { storage } from '../../firebase'
+import _ from 'lodash'
 
 // const univs = [
 //   {
@@ -22,9 +24,12 @@ class UnivItem extends Component {
     this.state = {
       open: false,
       copied: false,
+      downloadUrl: null,
     }
   }
+
   // modal
+
   show = dimmer => () => this.setState({ dimmer, open: true })
   close = () => this.setState({ open: false })
 
@@ -33,13 +38,24 @@ class UnivItem extends Component {
     this.setState({ copied: true })
   }
 
+  componentWillMount() {
+    const { imgRef } = this.props
+
+    imgRef.getDownloadURL().then(url => {
+      return this.setState({ downloadUrl: url })
+    })
+  }
+
   render() {
     const { open, dimmer } = this.state
-    // if(this.state.isLoading) return <h1>로딩중입니다.</h1>
+
     return (
       <div className="card">
         <div className="content">
-          <img className="left floated mini ui image" src={this.props.img} />
+          <img
+            className="left floated mini ui image"
+            src={this.state.downloadUrl}
+          />
           <i className="right floated yellow ui plus icon" />
 
           <Popup
@@ -98,27 +114,48 @@ class UnivItem extends Component {
               />
             </Modal.Actions>
           </Modal>
-          <Button.Group fluid>
-            <Button basic color="grey">
-              SVG
-            </Button>
-            <Button basic color="grey">
-              PNG
-            </Button>
-          </Button.Group>
-          {/* <div className="ui two buttons">
-            <a
-              href={this.props.img}
-              download
-              className="ui basic grey button"
-              style={{ backgroundColor: 'red' }}
-            >
-              SVG
-            </a>
-            <div className="ui basic grey button">
-              PNG
-            </div>
-          </div> */}
+
+          {this.state.downloadUrl === null ? (
+            ''
+          ) : (
+            <Button.Group fluid>
+              <a
+                // href={this.state.downloadURL}
+                download="proposed_file_name"
+                style={{
+                  width: '50%',
+                  marginRight: '10px',
+                }}
+              >
+                <Button
+                  basic
+                  color="grey"
+                  style={{
+                    width: '100%',
+                  }}
+                >
+                  SVG
+                </Button>
+              </a>
+              <a
+                href={this.state.downloadUrl}
+                download="proposed_file_name"
+                style={{
+                  width: '50%',
+                }}
+              >
+                <Button
+                  basic
+                  color="grey"
+                  style={{
+                    width: '100%',
+                  }}
+                >
+                  PNG
+                </Button>
+              </a>
+            </Button.Group>
+          )}
         </div>
       </div>
     )
@@ -136,8 +173,7 @@ class UnivList extends React.Component {
   }
 
   componentDidMount = () => {
-    // var userId = firebase.auth().currentUser.uid
-    return firebase
+    firebase
       .database()
       .ref('/logoLists')
       .once('value')
@@ -145,31 +181,20 @@ class UnivList extends React.Component {
         this.setState({
           univList: snapshot.val(),
         })
-        console.log(snapshot.val())
       })
   }
-  // fetch(`${HOSTNAME}/logoLists`)
-  //   .then(res => res.json())
-  //   .then(data => {
-  //     this.setState({
-  //       univsList: data,
-  //     })
-  //   })
-  //   .catch(error => {
-  //     this.setState({
-  //       isLoading: false,
-  //       errorState: true,
-  //     })
-  //   })
   render = () => {
     return (
       <div className="ui three link stackable cards">
-        {this.state.univList.map(univ => {
+        {this.state.univList.map((univ, i) => {
+          const storageRef = storage.ref()
+          const imgRef = storageRef.child('color/PNG_' + (i + 1) + '.png')
           return (
             <UnivItem
+              imgRef={imgRef}
               location={univ.location}
               university={univ.university}
-              img={univ.downloadUrlPng}
+              // img={univ.downloadUrlPng}
               brandColor={univ.brandColor}
             />
           )
