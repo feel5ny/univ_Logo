@@ -1,5 +1,5 @@
-# 미니 프로젝트
-### 대학교 로고 storage
+# 대학교 로고 storage
+<img src ='./screenshot.png'>
 
 #### ux feature
 1. 디자인 가이드라인
