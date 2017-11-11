@@ -13,7 +13,6 @@ class TitleComp extends React.Component {
           className="App-logo"
           alt="logo"
         />
-        {this.props.rootColor}
       </h3>
     )
   }
